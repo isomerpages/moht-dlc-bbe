@@ -1,0 +1,8 @@
+collections:
+  i-am:
+    output: true
+    order:
+      - Partner List/.keep
+      - What is DLC.md
+      - example-subfolder/.keep
+      - example-subfolder/subfolder-page.md
