@@ -1,5 +1,5 @@
-title: Clementi DLC
-url: https://www.dlc.clementi.sg
+title: BL DLC
+url: https://www.dlc.boonlay.sg
 favicon: /images/dlc circle.png
 colors:
   primary-color: "#6031b6"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
