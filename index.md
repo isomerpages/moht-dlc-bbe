@@ -7,18 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Digital Local Connect
-      subtitle: Clementi
-      background: /images/clementi_view.jpg
-      dropdown:
-        title: I am looking for
-        options:
-          - title: About DLC
-            url: ""
-          - title: Partner List
-            url: ""
-          - title: Training Guides
-            url: ""
-          - title: Support Network
-            url: ""
+      title: Boon Lay
+      subtitle: Your pocket guide to residential resources in your neighbourhood
+      background: /images/untitled design.png
 ---
