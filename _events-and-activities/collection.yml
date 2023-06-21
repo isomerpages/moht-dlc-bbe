@@ -1,4 +1,5 @@
 collections:
   events-and-activities:
     output: true
-    order: []
+    order:
+      - Get Active.md
