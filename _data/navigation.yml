@@ -3,4 +3,12 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: Youth
+    url: /permalink
+  - title: Adults
+    url: /permalink
+  - title: Seniors
+    url: /permalink
+  - title: Family
+    url: /permalink
+  - title: Support Services
     collection: example-folder
