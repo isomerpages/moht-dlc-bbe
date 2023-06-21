@@ -2,11 +2,11 @@ title: BL DLC
 url: https://www.dlc.boonlay.sg
 favicon: /images/dlc circle.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#6c9963"
+  secondary-color: "#a2c08d"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#b8e986"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
