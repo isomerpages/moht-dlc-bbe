@@ -2,7 +2,7 @@ collections:
   support-services:
     output: true
     order:
-      - Support for Families.md
-      - Support for Seniors.md
       - Support for Adults.md
       - Support for Children & Youths.md
+      - Support for Seniors.md
+      - Support for Families.md
