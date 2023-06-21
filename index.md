@@ -4,7 +4,7 @@ title: BL DLC
 description: DLC was developed by MOHT.
 image: /images/dlc circle.png
 permalink: /
-notification: ""
+notification: "Have a suggestion for us? Let us know here  "
 sections:
   - hero:
       title: Connecting Health Goals Together
@@ -12,10 +12,17 @@ sections:
       background: /images/24492dqwfq.jpg
       dropdown:
         title: Select resident type
-        options: []
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
+        options:
+          - title: Adults
+            url: /adults/
+          - title: Children & Youths
+            url: /youths/
+          - title: Seniors
+            url: /seniors/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
       button: Button Text
+      alt: Image alt text
 ---
