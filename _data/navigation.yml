@@ -2,13 +2,7 @@ logo: /images/dlc temp logo 1.png
 links:
   - title: About
     url: /contact-us/
-  - title: Youth
-    url: /permalink
-  - title: Seniors
-    url: /permalink
-  - title: Family
-    url: /permalink
-  - title: Residential Support
-    collection: example-folder
+  - title: Support services
+    collection: support-services
   - title: Learning Resources
     collection: example-folder
