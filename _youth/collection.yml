@@ -1,0 +1,4 @@
+collections:
+  youth:
+    output: true
+    order: []
