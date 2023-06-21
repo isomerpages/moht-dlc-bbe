@@ -10,4 +10,7 @@ sections:
       title: Connecting Health Goals Together
       subtitle: Your pocket guide to residential resources in your neighbourhood
       background: /images/24492dqwfq.jpg
+      dropdown:
+        title: Select resident type
+        options: []
 ---
