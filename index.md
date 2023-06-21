@@ -4,7 +4,7 @@ title: BL DLC
 description: DLC was developed by MOHT.
 image: /images/dlc circle.png
 permalink: /
-notification: MOHT
+notification: ""
 sections:
   - hero:
       title: Digital Local Connect
