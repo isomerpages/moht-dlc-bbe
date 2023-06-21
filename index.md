@@ -4,11 +4,12 @@ title: BL DLC
 description: DLC was developed by MOHT.
 image: /images/dlc circle.png
 permalink: /
-notification: "Have a suggestion for us? Let us know here "
+notification: Have a suggestion for us? Let us know here
 sections:
   - hero:
       title: Connecting Health Goals Together
-      subtitle: Your pocket guide to residential resources in your neighbourhood
+      subtitle: A pocket guide for volunteers & providers to access resources in your
+        neighbourhood for Boon Lay residents
       background: /images/24492dqwfq.jpg
       dropdown:
         title: Select Resident Type
@@ -21,8 +22,8 @@ sections:
             url: /seniors/
   - infopic:
       title: Infopic Title
-      subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/image ref.png
 ---
