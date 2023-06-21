@@ -1,0 +1,4 @@
+collections:
+  events-and-activities:
+    output: true
+    order: []
