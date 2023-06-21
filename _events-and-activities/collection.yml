@@ -2,4 +2,5 @@ collections:
   events-and-activities:
     output: true
     order:
+      - Volunteering Events.md
       - Get Active.md
