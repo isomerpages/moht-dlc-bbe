@@ -2,4 +2,5 @@ collections:
   learning-resources:
     output: true
     order:
+      - Caregiving Guides.md
       - Caregiving Courses.md
