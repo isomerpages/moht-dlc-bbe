@@ -1,6 +1,6 @@
 logo: /images/dlc circle.png
 links:
-  - title: Contact Us
+  - title: About DLC
     url: /contact-us/
   - title: Youth
     url: /permalink
@@ -10,5 +10,7 @@ links:
     url: /permalink
   - title: Family
     url: /permalink
-  - title: Support Services
+  - title: Residential Support
+    collection: example-folder
+  - title: Learning Resources
     collection: example-folder
