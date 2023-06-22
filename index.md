@@ -12,13 +12,13 @@ sections:
         neighbourhood for Boon Lay residents
       background: /images/24492dqwfq.jpg
       dropdown:
-        title: Select Resident Type
+        title: Choose a section
         options:
-          - title: Adults
+          - title: Mental Health Support
             url: /adults/
-          - title: Children & Youths
+          - title: Nearby GPs and Clinics
             url: /youths/
-          - title: Seniors
+          - title: Addiction Support
             url: /seniors/
   - infopic:
       title: Digital Local Connect
