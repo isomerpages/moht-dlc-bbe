@@ -20,4 +20,8 @@ sections:
       image: /images/digital-for-life-festival-4.jpg
       subtitle: About us
       url: /youth
+  - resources:
+      title: Select A Topic
+      subtitle: Library
+      button: See more
 ---
