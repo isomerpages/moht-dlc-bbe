@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: <font size="10">Building an Integrated Community in Boon Lay</font>
+      title: Building an Integrated Community in Boon Lay
       subtitle: A pocket guide for volunteers & providers to access resources in your
         neighbourhood for Boon Lay residents
       background: /images/24492dqwfq.jpg
