@@ -21,9 +21,12 @@ sections:
           - title: Seniors
             url: /seniors/
   - infopic:
-      title: Infopic Title
-      description: Infopic description
-      button: Button Text
-      alt: hello
-      image: /images/digital-for-life-festival-4.png
+      title: Digital Local Connect
+      description: A resource library for precinct leaders, volunteers, and
+        stakeholders, to guide residents to local services and programs.
+      button: Learn more
+      alt: Hello
+      image: /images/digital-for-life-festival-4.jpg
+      subtitle: About us
+      url: /youth
 ---
