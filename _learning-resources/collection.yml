@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Caregiver Support/.keep
-      - Helpful Guides.md
       - Training Courses.md
