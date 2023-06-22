@@ -4,7 +4,7 @@ title: BL DLC
 description: DLC was developed by MOHT.
 image: /images/dlc circle.png
 permalink: /
-notification: Have a suggestion for us? Let us know here
+notification: ""
 sections:
   - hero:
       title: Connecting Health Goals Together
