@@ -11,15 +11,6 @@ sections:
       subtitle: A pocket guide for volunteers & providers to access resources in your
         neighbourhood for Boon Lay residents
       background: /images/24492dqwfq.jpg
-      dropdown:
-        title: Choose a section
-        options:
-          - title: Mental Health Support
-            url: /adults/
-          - title: Nearby GPs and Clinics
-            url: /youths/
-          - title: Addiction Support
-            url: /seniors/
   - infopic:
       title: Digital Local Connect
       description: A resource library for precinct leaders, volunteers, and
