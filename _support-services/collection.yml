@@ -2,9 +2,9 @@ collections:
   support-services:
     output: true
     order:
-      - Children & Youth Services.md
       - Health Services.md
       - Social Services.md
       - Senior Services.md
+      - Children & Youth Services.md
       - Community Programmes.md
       - Helplines.md
