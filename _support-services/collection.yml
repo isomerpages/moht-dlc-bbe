@@ -2,6 +2,7 @@ collections:
   support-services:
     output: true
     order:
+      - Helplines.md
       - Community Programmes.md
       - Health Services.md
       - Social Services.md
