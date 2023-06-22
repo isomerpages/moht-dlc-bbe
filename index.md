@@ -24,6 +24,6 @@ sections:
       title: Infopic Title
       description: Infopic description
       button: Button Text
-      alt: Image alt text
-      image: /images/image ref.png
+      alt: hello
+      image: /images/digital-for-life-festival-4.png
 ---
