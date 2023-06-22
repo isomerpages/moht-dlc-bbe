@@ -2,8 +2,8 @@ collections:
   support-services:
     output: true
     order:
-      - Senior Services.md
       - Health Services.md
       - Social Services.md
+      - Senior Services.md
       - Community Programmes.md
       - Helplines.md
