@@ -2,6 +2,7 @@ collections:
   learning-hub:
     output: true
     order:
+      - Psychological First Aid.md
       - Mental Health Awareness (Online).md
       - Dementia Support.md
       - Caregiving & Caregiver Support.md
