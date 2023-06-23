@@ -2,21 +2,21 @@ collections:
   support-services:
     output: true
     order:
-      - Children & Youth Services/Youth Programmes.md
-      - Children & Youth Services/After School Care.md
-      - Children & Youth Services/Tak Takut Kids Club.md
-      - Children & Youth Services/.keep
-      - Senior Services/Senior Centers.md
-      - Senior Services/Nursing Homes.md
-      - Senior Services/Dementia Support Services.md
-      - Senior Services/.keep
-      - Social Services/Social Service Office @ Boon Lay.md
-      - Social Services/Family Service Centre @ Jurong.md
-      - Social Services/Food Support Services.md
-      - Social Services/Disability Support Services.md
-      - Social Services/.keep
       - Health Services/.keep
       - Health Services/Polyclinics, GPs, & Hospitals.md
       - Health Services/Dental.md
       - Health Services/Community Health Services.md
       - Health Services/Mental Health Services.md
+      - Social Services/.keep
+      - Social Services/Social Service Office @ Boon Lay.md
+      - Social Services/Family Service Centre @ Jurong.md
+      - Social Services/Food Support Services.md
+      - Social Services/Disability Support Services.md
+      - Senior Services/.keep
+      - Senior Services/Senior Centers.md
+      - Senior Services/Nursing Homes.md
+      - Senior Services/Dementia Support Services.md
+      - Children & Youth Services/.keep
+      - Children & Youth Services/Youth Programmes.md
+      - Children & Youth Services/After School Care.md
+      - Children & Youth Services/Tak Takut Kids Club.md
