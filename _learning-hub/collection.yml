@@ -1,5 +1,5 @@
 collections:
-  learning-resources:
+  learning-hub:
     output: true
     order:
       - Caregiver Support/Helpful Guides.md
