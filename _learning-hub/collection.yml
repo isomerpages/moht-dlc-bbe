@@ -2,6 +2,7 @@ collections:
   learning-hub:
     output: true
     order:
+      - Suicide Prevention Workshops.md
       - Peer to Peer Mental Well Being Support with WSQ Certification.md
       - Positive Parenting Programme.md
       - Psychological First Aid.md
