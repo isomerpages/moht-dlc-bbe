@@ -4,7 +4,7 @@ permalink: /comhealth/
 description: ""
 third_nav_title: Health Services
 ---
-&gt;Community Health offers comprehensive health and social services that are integrated within the community, aiming to support individuals with chronic medical conditions and their caregivers in leading fulfilling lives.
+&gt; Community Health offers comprehensive health and social services that are integrated within the community, aiming to support individuals with chronic medical conditions and their caregivers in leading fulfilling lives.
 
 **WHISPERING&nbsp;HEARTS FAMILY SERVICE CENTRE**
 
