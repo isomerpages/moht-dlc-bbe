@@ -2,6 +2,7 @@ collections:
   learning-hub:
     output: true
     order:
+      - Caregiver Support.md
       - Caregiver Support/Helpful Guides.md
       - Caregiver Support/.keep
       - Training Courses.md
