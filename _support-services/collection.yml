@@ -2,6 +2,7 @@ collections:
   support-services:
     output: true
     order:
+      - Social Service Office @ Boon Lay.md
       - Health Services/.keep
       - Health Services/Polyclinics, GPs, & Hospitals.md
       - Health Services/Dental.md
