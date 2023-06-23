@@ -2,6 +2,7 @@ collections:
   support-services:
     output: true
     order:
+      - Family Service Centre @ Jurong.md
       - Social Service Office @ Boon Lay.md
       - Health Services/.keep
       - Health Services/Polyclinics, GPs, & Hospitals.md
