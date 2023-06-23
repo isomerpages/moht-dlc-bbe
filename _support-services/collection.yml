@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Children & Youth Services/.keep
-      - Tak Takut Kids Club.md
       - After School Care.md
       - Senior Services/Senior Centers.md
       - Senior Services/Nursing Homes.md
