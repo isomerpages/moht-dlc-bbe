@@ -1,10 +1,12 @@
 logo: /images/dlc temp logo 1.png
 links:
   - title: About
-    url: /aboutus
+    collection: about-us
+  - title: Support Services
+    collection: support-services
   - title: Learning Hub
     collection: learning-hub
-  - title: Join Our Support Network
-    collection: events-and-activities
   - title: Events & Activities
+    collection: events-and-activities
+  - title: Join Our Support Network
     collection: events-and-activities
