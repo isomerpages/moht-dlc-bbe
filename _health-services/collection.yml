@@ -1,4 +1,5 @@
 collections:
   health-services:
     output: true
-    order: []
+    order:
+      - Polyclinics, GPs, & Hospitals.md
