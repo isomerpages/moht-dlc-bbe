@@ -1,8 +1,0 @@
-collections:
-  support-services:
-    output: true
-    order:
-      - Social Services.md
-      - Senior Services.md
-      - Children & Youth Services.md
-      - Helplines.md
