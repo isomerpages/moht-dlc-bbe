@@ -2,19 +2,19 @@ title: BL DLC
 url: https://www.dlc.boonlay.sg
 favicon: /images/dlc circle.png
 colors:
-  primary-color: "#000000"
-  secondary-color: "#333333"
+  primary-color: "#34438c"
+  secondary-color: "#c0c5e5"
   media-colors:
     - title: media-color-one
-      color: "#666666"
+      color: "#5c6cbc"
     - title: media-color-two
-      color: "#cccccc"
+      color: "#5c6cbc"
     - title: media-color-three
-      color: "#00838f"
+      color: "#5c6cbc"
     - title: media-color-four
-      color: "#00838f"
+      color: "#5c6cbc"
     - title: media-color-five
-      color: "#00838f"
+      color: "#5c6cbc"
 description: DLC was developed by MOHT.
 permalink: none
 baseurl: ""
