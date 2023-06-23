@@ -11,6 +11,9 @@ sections:
       subtitle: A pocket guide for volunteers & providers to access resources in your
         neighbourhood for Boon Lay residents
       background: /images/24492dqwfq.jpg
+  - resources:
+      title: Select A Topic
+      subtitle: Content
   - infopic:
       title: Digital Local Connect
       description: A resource library for precinct leaders, volunteers, and
@@ -20,8 +23,4 @@ sections:
       image: /images/digital-for-life-festival-4.jpg
       subtitle: About us
       url: /youth
-  - resources:
-      title: Select A Topic
-      subtitle: Library
-      button: See more
 ---
