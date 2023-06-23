@@ -2,6 +2,7 @@ collections:
   support-services:
     output: true
     order:
+      - Senior Services/.keep
       - Dementia Support Services.md
       - Nursing Homes.md
       - Senior Centers.md
