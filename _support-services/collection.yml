@@ -2,6 +2,7 @@ collections:
   support-services:
     output: true
     order:
+      - Support Schemes Available.md
       - Locate A Service.md
       - Health Services/.keep
       - Health Services/Polyclinics, GPs, & Hospitals.md
