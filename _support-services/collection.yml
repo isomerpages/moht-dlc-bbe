@@ -2,6 +2,7 @@ collections:
   support-services:
     output: true
     order:
+      - Children & Youth Services/Youth Programmes.md
       - Children & Youth Services/After School Care.md
       - Children & Youth Services/Tak Takut Kids Club.md
       - Children & Youth Services/.keep
