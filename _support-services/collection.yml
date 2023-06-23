@@ -2,6 +2,7 @@ collections:
   support-services:
     output: true
     order:
+      - Health Services/Dental.md
       - Health Services/Polyclinics, GPs, & Hospitals.md
       - Health Services/.keep
       - Mental Health Services.md
