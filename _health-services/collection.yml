@@ -2,5 +2,6 @@ collections:
   health-services:
     output: true
     order:
+      - Community Health Services.md
       - Dental.md
       - Polyclinics, GPs, & Hospitals.md
