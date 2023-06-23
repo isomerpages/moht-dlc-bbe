@@ -2,7 +2,6 @@ collections:
   support-services:
     output: true
     order:
-      - Support Schemes Available.md
       - Locate A Service.md
       - Health Services/.keep
       - Health Services/Polyclinics, GPs, & Hospitals.md
@@ -22,3 +21,4 @@ collections:
       - Children & Youth Services/Youth Programmes.md
       - Children & Youth Services/After School Care.md
       - Children & Youth Services/Tak Takut Kids Club.md
+      - Support Schemes Available.md
