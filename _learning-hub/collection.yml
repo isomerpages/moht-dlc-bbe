@@ -2,11 +2,12 @@ collections:
   learning-hub:
     output: true
     order:
-      - Help Guides/.keep
-      - Help Guides/Supporting Caregivers.md
-      - Help Guides/Supporting Individuals with Mental Health Issues.md
-      - Help Guides/Supporting Victims of Domestic Abuse.md
-      - Help Guides/Supporting Volunteers.md
+      - Help Sites & Helplines/.keep
+      - Help Sites & Helplines/Supporting Caregivers.md
+      - Help Sites & Helplines/Supporting Individuals with Mental Health
+        Issues.md
+      - Help Sites & Helplines/Supporting Victims of Domestic Abuse.md
+      - Help Sites & Helplines/Supporting Volunteers.md
       - Training Courses/.keep
       - Training Courses/Caregiving & Caregiver Support.md
       - Training Courses/Dementia Support.md
