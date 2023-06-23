@@ -2,6 +2,7 @@ collections:
   learning-hub:
     output: true
     order:
+      - Supporting Individuals or Families Suffering from Domestic Abuse.md
       - Support Schemes Available.md
       - Supporting Individuals with Mental Health Issues.md
       - Caregiver Support.md
