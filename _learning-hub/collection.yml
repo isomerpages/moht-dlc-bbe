@@ -2,6 +2,7 @@ collections:
   learning-hub:
     output: true
     order:
+      - Dementia Support.md
       - Caregiving & Caregiver Support.md
       - Support Schemes Available.md
       - Help Guides/Caregiver Support.md
