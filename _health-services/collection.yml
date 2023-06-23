@@ -2,4 +2,5 @@ collections:
   health-services:
     output: true
     order:
+      - Dental.md
       - Polyclinics, GPs, & Hospitals.md
