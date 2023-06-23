@@ -2,6 +2,7 @@ collections:
   learning-hub:
     output: true
     order:
+      - Training Courses/Dementia Support.md
       - Training Courses/Mental Health Awareness (Online).md
       - Training Courses/Psychological First Aid.md
       - Training Courses/Positive Parenting Programme.md
