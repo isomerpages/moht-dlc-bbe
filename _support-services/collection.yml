@@ -2,6 +2,7 @@ collections:
   support-services:
     output: true
     order:
+      - Social Services/.keep
       - Disability Support Services.md
       - Food Support Services.md
       - Family Service Centre @ Jurong.md
