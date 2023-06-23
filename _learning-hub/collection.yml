@@ -2,6 +2,8 @@ collections:
   learning-hub:
     output: true
     order:
+      - Training Courses/Peer to Peer Mental Well Being Support with WSQ
+        Certification.md
       - Training Courses/Suicide Prevention Workshops.md
       - Training Courses/.keep
       - Positive Parenting Programme.md
