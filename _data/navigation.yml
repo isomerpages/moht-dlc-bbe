@@ -6,7 +6,7 @@ links:
     collection: support-services
   - title: Learning Hub
     collection: learning-hub
-  - title: Join Our Chatgroup
-    collection: events-and-activities
   - title: Events & Activities
     collection: events-and-activities
+  - title: Join our chatgroup
+    url: /supportchat
