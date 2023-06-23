@@ -2,7 +2,6 @@ collections:
   learning-hub:
     output: true
     order:
-      - Supporting Volunteers.md
       - Supporting Victims of Domestic Abuse.md
       - Support Schemes Available.md
       - Supporting Individuals with Mental Health Issues.md
