@@ -1,5 +1,5 @@
 collections:
-  health-services:
+  support-services:
     output: true
     order:
       - Mental Health Services.md
