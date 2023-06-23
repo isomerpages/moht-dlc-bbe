@@ -2,6 +2,7 @@ collections:
   support-services:
     output: true
     order:
+      - Tak Takut Kids Club.md
       - After School Care.md
       - Senior Services/Senior Centers.md
       - Senior Services/Nursing Homes.md
