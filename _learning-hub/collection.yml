@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Support Schemes Available.md
+      - Help Guides/Caregiver Support.md
       - Help Guides/Supporting Individuals with Mental Health Issues.md
       - Help Guides/Supporting Victims of Domestic Abuse.md
       - Help Guides/Supporting Volunteers.md
