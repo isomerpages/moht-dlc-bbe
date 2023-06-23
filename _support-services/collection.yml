@@ -2,6 +2,7 @@ collections:
   support-services:
     output: true
     order:
+      - NTUC Health Senior Activity Centre.md
       - Social Services/Social Service Office @ Boon Lay.md
       - Social Services/Family Service Centre @ Jurong.md
       - Social Services/Food Support Services.md
