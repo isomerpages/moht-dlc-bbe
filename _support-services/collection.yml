@@ -2,7 +2,6 @@ collections:
   support-services:
     output: true
     order:
-      - Health Services.md
       - Social Services.md
       - Senior Services.md
       - Children & Youth Services.md
