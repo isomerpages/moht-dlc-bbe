@@ -8,7 +8,12 @@ third_nav_title: Health Services
 
 ![Mental Wellness and How to Improve It - Domus Retreat®](https://domusretreat.com/wp-content/uploads/mental-wellness.png)
 
-<u>**Services available**</u>
+Stressed out? Need a place to share your thoughts and find support? 
+<br> Visit [Mindline.sg](https://www.mindline.sg/home)  for an interactive experience with their Mental Health support system.
+* Learn self-care techniques by chatting with their AI chatbot, Wysa
+* Get support for yourself or a loved one based on y
+
+### <u>**Nearby services available**</u>
 
 **1. [Whispering Hearts Family Service Centre](https://viriya.org.sg/our-services/family-services/whispering-hearts-family-service-centre/)**
 * WHFSC can link families and individuals up to Viriya Specialist Services such as mental health services to those who require them. Speak to a staff to find out more!
