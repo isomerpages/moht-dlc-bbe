@@ -4,7 +4,7 @@ permalink: /learning-hub/help-sites-and-helplines/mentalwellnessguides/
 description: ""
 third_nav_title: Help Sites & Helplines
 ---
-**Mental Health**
+
 
 1) Agency for Integrated Care
 
@@ -19,3 +19,7 @@ third_nav_title: Help Sites & Helplines
 *   [Mental Health Caregivers Help sheet (English)](https://www.google.com/url?q=https%3A%2F%2Fwww.aic.sg%2Fresources%2FDocuments%2FBrochures%2FMental%2520Health%2FMH%2520Helpsheet%2520English.pdf&sa=D&sntz=1&usg=AOvVaw2Qo9Zw_h_tHlECLvWwLml4)
     
 *   [Mental Health Caregivers Help sheet (Mandarin)](https://www.google.com/url?q=https%3A%2F%2Fwww.aic.sg%2Fresources%2FDocuments%2FBrochures%2FMental%2520Health%2FMH%2520Helpsheet%2520Chinese.pdf&sa=D&sntz=1&usg=AOvVaw1QPTxFakWyU6fzbQkfiCaL)
+
+2) Health Xchange
+
+*   [How to support loved ones with anxiety or depression?](https://www.google.com/url?q=https%3A%2F%2Fwww.healthxchange.sg%2Fwellness%2Fmental-health%2Fmanaging-anxiety-depression-creating-positive-environment&sa=D&sntz=1&usg=AOvVaw0kWNQWjlNgIc4nT2N-D9qs)
