@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Help Sites & Helplines/.keep
-      - Help Sites & Helplines/Supporting Caregivers.md
+      - Help Sites & Helplines/Information for Caregivers.md
       - Help Sites & Helplines/Supporting Individuals with Mental Health
         Issues.md
       - Help Sites & Helplines/Supporting Victims of Domestic Abuse.md
