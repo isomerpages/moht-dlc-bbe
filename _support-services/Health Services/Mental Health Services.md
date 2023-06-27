@@ -12,6 +12,7 @@ Stressed out? Need a place to share your thoughts and find support?
 <br> Visit [Mindline.sg](https://www.mindline.sg/home)  for an interactive experience with their Mental Health support system.
 * Learn self-care techniques by chatting with their AI chatbot, Wysa
 * Get support for yourself or a loved one based on your situation
+* See the various helplines available ([Click here to view](https://mindline.sg/youth/get-help))
 
 ### **Nearby services available**
 
