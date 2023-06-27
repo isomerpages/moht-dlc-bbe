@@ -11,9 +11,9 @@ third_nav_title: Health Services
 Stressed out? Need a place to share your thoughts and find support? 
 <br> Visit [Mindline.sg](https://www.mindline.sg/home)  for an interactive experience with their Mental Health support system.
 * Learn self-care techniques by chatting with their AI chatbot, Wysa
-* Get support for yourself or a loved one based on y
+* Get support for yourself or a loved one based on your situation
 
-### <u>**Nearby services available**</u>
+### **Nearby services available**
 
 **1. [Whispering Hearts Family Service Centre](https://viriya.org.sg/our-services/family-services/whispering-hearts-family-service-centre/)**
 * WHFSC can link families and individuals up to Viriya Specialist Services such as mental health services to those who require them. Speak to a staff to find out more!
