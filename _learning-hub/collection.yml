@@ -2,12 +2,12 @@ collections:
   learning-hub:
     output: true
     order:
-      - Help Sites & Helplines/.keep
-      - Help Sites & Helplines/Information for Caregivers.md
-      - Help Sites & Helplines/Starting & Raising A Family.md
-      - Help Sites & Helplines/Mental Wellness Guides.md
-      - Help Sites & Helplines/Supporting Victims of Domestic Abuse.md
-      - Help Sites & Helplines/Supporting Volunteers.md
+      - Online Support & Articles/.keep
+      - Online Support & Articles/Information for Caregivers.md
+      - Online Support & Articles/Starting & Raising A Family.md
+      - Online Support & Articles/Mental Wellness Guides.md
+      - Online Support & Articles/Supporting Victims of Domestic Abuse.md
+      - Online Support & Articles/Supporting Volunteers.md
       - Training Courses & Workshops/.keep
       - Training Courses & Workshops/Caregiving & Caregiver Support.md
       - Training Courses & Workshops/Dementia Support.md
