@@ -4,7 +4,7 @@ permalink: /aboutus/
 description: ""
 ---
 ## 3-In-1 Community Pocket Guide
-<a href="https://ibb.co/fNvxQYL"><img border="0" alt="PPT-banner-version" src="https://i.ibb.co/c8LrxcV/PPT-banner-version.png"></a>
+![dlc phone]()
 
 
 
