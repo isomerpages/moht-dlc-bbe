@@ -1,5 +1,5 @@
 collections:
-  events-and-activities:
+  programmes:
     output: true
     order:
       - Meet The People Sessions.md
