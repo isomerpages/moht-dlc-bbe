@@ -36,7 +36,7 @@ Stressed out? Need a place to share your thoughts and find support?
 
 *   **Location:**&nbsp;646 Jurong West Street 61 #01-142 Singapore 640646
     
-*   **Opening hours:** 
+*   **Opening hours:** <table style="margin-top: 3px; border-collapse: collapse; line-height: 1.58;" class="WgFkxc"><tbody><tr style="font-weight: bold; color: rgb(32, 33, 36);" class="K7Ltle"><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Friday</td><td style="padding: 0px;">8:30 am–5:30 pm</td></tr><tr><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Saturday</td><td style="padding: 0px;">Closed</td></tr><tr><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Sunday</td><td style="padding: 0px;">Closed</td></tr><tr><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Monday</td><td style="padding: 0px;">8:30 am–5:30 pm</td></tr><tr><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Tuesday</td><td style="padding: 0px;">8:30 am–5:30 pm</td></tr><tr><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Wednesday<div></div></td><td style="padding: 0px;">8:30 am–5:30 pm<div><span style="font-family: arial, sans-serif-light, sans-serif; font-weight: normal; color: rgb(176, 96, 0);" class="M4OzPc LSCqpe"></span></div></td></tr><tr><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Thursday<div></div></td><td style="padding: 0px;">8:30 am–5:30 pm<div><span style="font-family: arial, sans-serif-light, sans-serif; font-weight: normal; color: rgb(176, 96, 0);" class="M4OzPc LSCqpe"></span></div></td></tr></tbody></table>
 
 *   **Tel:**&nbsp;6354 1191
     
