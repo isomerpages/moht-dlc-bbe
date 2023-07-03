@@ -2,8 +2,8 @@ collections:
   support-services:
     output: true
     order:
-      - Dental.md
       - Locate A Service.md
+      - Dental.md
       - Primary Care Services/.keep
       - Primary Care Services/Polyclinics, GPs, & Hospitals.md
       - Primary Care Services/Mental Health Services.md
