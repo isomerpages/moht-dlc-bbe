@@ -11,6 +11,13 @@ sections:
       subtitle: A pocket guide for volunteers & providers to access resources in your
         neighbourhood for Boon Lay residents
       background: /images/24492dqwfq.jpg
+      key_highlights:
+        - title: Support Services
+          description: Within Boon Lay
+          url: /support-services/locationmap/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - resources:
       title: Select A Topic
       subtitle: Content
