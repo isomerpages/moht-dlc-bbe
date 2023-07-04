@@ -15,7 +15,7 @@ description: ""
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
 <h5><strong>Date &amp; Time:</strong></h5>Every Thursday, 7.30pm – 9.30pm 
-		(Except Public Holidays)<p></p><h5><strong>Venue:</strong></h5>Blk 207 Boon Lay Place #01-215, S640207<p></p><br><br><br>
+		(Except Public Holidays)<p></p><h5><strong>Venue:</strong></h5>Blk 207 Boon Lay Place #01-215, S640207<p></p>
     </ul></div></td>	
     <td style="width:50%">
 					<div style="font-size:24px; font-weight: 900; color: #1c2c84; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Session 2</div>
