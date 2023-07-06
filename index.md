@@ -17,7 +17,7 @@ sections:
           url: /support-services/locationmap/
         - title: Training Courses & Guides
           description: Boost your skills & knowledge
-          url: /trainig
+          url: /learning-hub/caregiversupport/
   - resources:
       title: Select A Topic
       subtitle: Content
