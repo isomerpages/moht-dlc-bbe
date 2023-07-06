@@ -11,7 +11,7 @@ description: ""
     <td style="width:70%">
       	<a href="https://www.myactivesg.com/About-ActiveSG/myActiveSG-App" target="_blank">ActiveSG</a>
    <br>
-	Download the ActiveSG app to find fitness classes and sports facilities near you, while unlocking rewards through thrilling fitness challenges and campaigns on the app. <br>
+	Download the ActiveSG app to find fitness classes and sports facilities near you. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"><a href="https://apps.apple.com/sg/app/activesg/id827595244" target="_blanket"><img alt="Apple App Store Link" src="https://d33wubrfki0l68.cloudfront.net/769d2c164a70c4400654f300f4f36f94ce152f0c/c170e/images/community/appstoreicon/apple-store.png"></a>
@@ -27,9 +27,9 @@ description: ""
       <img src="https://play-lh.googleusercontent.com/PpfJTn4mU_d_r3zFGeF1hOs22uYKHry6QFLC9PqefEpfVcQyH17EfeBA86-iPTC-U-o" alt="Healthy 365">
     </td>	
     <td style="width:70%">
-      	<a href="https://hpb.gov.sg/healthy-living/healthy-365" target="_blank">Healthy 365</a><br>
+      	<a href="https://hpb.gov.sg/healthy-living/healthy-365" target="_blank">Healthy 365</a>
    <br>
-	The must-have app for the National Steps Challenge, an initiative&nbsp;that encourages residents in Singapore&nbsp;to adopt a more active lifestyle, Healthy 365 also tracks one’s health and diet.<br>
+	Download the app to join free fitness classes in your area and take part in the National Steps Challenge, as well as monitor your sleep and food intake.<br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blanket"><img alt="Apple App Store Link" src="https://d33wubrfki0l68.cloudfront.net/769d2c164a70c4400654f300f4f36f94ce152f0c/c170e/images/community/appstoreicon/apple-store.png"></a>
