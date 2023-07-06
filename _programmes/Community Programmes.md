@@ -24,12 +24,12 @@ Join oneboonlay facebook, instagram
 		
 <tr>
     <td style="width:30%">
-      <img src="![onePA](![orrgc]()" alt="Onepa">
+      <img src="https://www.pa.gov.sg/images/Our%20Network/Community%20Club/onepalogo.jpg" alt="Onepa">
     </td>	
     <td style="width:70%">
-      	<a href="https://m.customs.gov.sg/CustomsTravellerPortal" target="_blank">Customs@SG Web Application</a><br>
+      	<a href="https://www.onepa.gov.sg/cc/boon-lay-cc" target="_blank">Boon Lay CC</a>
    <br>
-	Declare and pay taxes on your overseas purchases before you even hit  the airport, or provide tip-offs on customs offences – all via this nifty app. <br>
+	Sign up for Yoga classes or join a karaoke interest group! Explore events, courses, and interest groups at Boon Lay CC now! <br>
 	<br></td>
 </tr>
 		
