@@ -28,7 +28,7 @@ sections:
       button: Learn more
       alt: Hello
       image: /images/dlc square banner (about).png
-      subtitle: About us
+      subtitle: A Healthy Precinct Initiative
       url: /aboutus/
   - infopic:
       title: Making Boon Lay a Healthy Precinct
