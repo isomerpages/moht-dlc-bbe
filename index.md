@@ -29,7 +29,7 @@ sections:
       alt: Hello
       image: /images/digital-for-life-festival-4.jpg
       subtitle: About us
-      url: /youth
+      url: /aboutus/
   - resources:
       title: Select A Topic
       subtitle: Content
