@@ -54,13 +54,13 @@ description: ""
 	Explore the wide range of fitness courses at Boon Lay CC. Be it Yoga or line dancing, there will be something for you to enjoy and break a sweat at the same time! <br>
 	<br></td>
 </tr>
- 
-
-
-
-
-		
-
-		
-		
 </tbody></table>
+<br>
+
+<div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
+<div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
+	<ul>
+		<li><a href="https://www.todayonline.com/singapore/hdb-completes-semas-test-bed">2015: HDB completes trial of smart elderly monitoring and alert system</a></li>
+		<li><a href="https://www.channelnewsasia.com/cnainsider/when-someone-dies-alone-singapore-this-is-what-happens-seniors-769486">CNA Insider: When someone dies alone in Singapore, this is what happens</a></li>
+	</ul>
+</div>
