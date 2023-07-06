@@ -30,7 +30,12 @@ sections:
       image: /images/dlc square banner (about).png
       subtitle: About us
       url: /aboutus/
-  - resources:
-      title: Select A Topic
-      subtitle: Content
+  - infopic:
+      title: Making Boon Lay a Healthy Precinct
+      subtitle: Infopic Subtitle
+      description: How can we build a healthy community together?
+      button: Click to find out
+      url: https://staging.d236v8am3fkr6h.amplifyapp.com/
+      image: /images/picture13wfwf.png
+      alt: HP framework
 ---
