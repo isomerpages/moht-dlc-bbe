@@ -43,4 +43,17 @@ description: ""
     <br></td>
   </tr>
 		
+		
+<tr>
+    <td style="width:30%">
+      <img src="https://www.pa.gov.sg/images/Our%20Network/Community%20Club/onepalogo.jpg" alt="Onepa">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.onepa.gov.sg/cc/boon-lay-cc" target="_blank">Boon Lay CC</a>
+   <br>
+	Explore the wide range of fitness courses at Boon Lay CC. Be it Yoga or line dancing, there will be something for you to enjoy and break a sweat at the same time! <br>
+	<br></td>
+</tr>
+		
+		
 </tbody></table>
