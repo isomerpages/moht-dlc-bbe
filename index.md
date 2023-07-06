@@ -27,7 +27,7 @@ sections:
         stakeholders, to guide residents to local services and programs.
       button: Learn more
       alt: Hello
-      image: /images/digital-for-life-festival-4.jpg
+      image: /images/dlc square banner (about).png
       subtitle: About us
       url: /aboutus/
   - resources:
