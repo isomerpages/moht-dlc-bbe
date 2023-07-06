@@ -26,4 +26,4 @@ description: ""
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;"></div></ul></div></td></tr></tbody></table>
 
-<h5><strong>Contact no:</strong></h5>6261 6085
+<h5><strong>Contact for enquiries:</strong></h5>6261 6085
