@@ -3,6 +3,9 @@ title: Fitness Programmes
 permalink: /fitnessprogrammes/
 description: ""
 ---
+## Find a workout that fits your lifestyle!
+**Ready to adopt an active lifestyle? There could be a Yoga or Zumba class near you! Explore these active opportunities via the following apps and sites.**
+
 <table style="width:100%">
   <tbody><tr>
     <td style="width:30%">
