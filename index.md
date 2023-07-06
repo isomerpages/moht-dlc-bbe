@@ -18,6 +18,9 @@ sections:
         - title: Training Courses & Guides
           description: Boost your skills & knowledge
           url: /learning-hub/caregiversupport/
+        - title: Find support on Telegram
+          description: Chat with our AI bot
+          url: /supportchat
   - resources:
       title: Select A Topic
       subtitle: Content
