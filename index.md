@@ -21,9 +21,6 @@ sections:
         - title: Find support on Telegram
           description: Chat with our AI bot
           url: /supportchat
-  - resources:
-      title: Select A Topic
-      subtitle: Content
   - infopic:
       title: Digital Local Connect
       description: A resource library for precinct leaders, volunteers, and
@@ -33,4 +30,7 @@ sections:
       image: /images/digital-for-life-festival-4.jpg
       subtitle: About us
       url: /youth
+  - resources:
+      title: Select A Topic
+      subtitle: Content
 ---
