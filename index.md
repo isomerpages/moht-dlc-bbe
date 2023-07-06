@@ -32,9 +32,8 @@ sections:
       url: /aboutus/
   - infopic:
       title: Making Boon Lay a Healthy Precinct
-      subtitle: Infopic Subtitle
-      description: How can we build a healthy community together?
-      button: Click to find out
+      description: How can we build a Healthy Precinct together?
+      button: Find out more
       url: https://staging.d236v8am3fkr6h.amplifyapp.com/
       image: /images/picture13wfwf.png
       alt: HP framework
