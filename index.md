@@ -15,9 +15,9 @@ sections:
         - title: Support Services
           description: Within Boon Lay
           url: /support-services/locationmap/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: Training Courses & Guides
+          description: Boost your skills & knowledge
+          url: /trainig
   - resources:
       title: Select A Topic
       subtitle: Content
