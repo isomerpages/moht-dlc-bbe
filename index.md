@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: BL DLC
+title: Boon Lay DLC
 description: DLC was developed by MOHT.
 image: /images/dlc circle.png
 permalink: /
