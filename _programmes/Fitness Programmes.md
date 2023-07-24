@@ -6,7 +6,7 @@ description: ""
 ## Find a workout that fits your lifestyle!
 **Ready to adopt an active lifestyle? There could be a Yoga or Zumba class near you! Explore these active opportunities via the following apps and sites.**
 
-<p></p><br><table style="width:100%">
+<table style="width:100%">
   <tbody><tr>
     <td style="width:30%">
       <img src="https://s3-ap-southeast-1.amazonaws.com/mmsproduction/program/s/ActiveSG.jpg" alt="Active Wallet">
