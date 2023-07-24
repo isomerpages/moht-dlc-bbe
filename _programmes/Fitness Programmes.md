@@ -9,7 +9,7 @@ description: ""
 <p></p><br><table style="width:100%">
   <tbody><tr>
     <td style="width:30%">
-      <img src="![activesg](/images/activesg%20pic.jpg)" alt="Active Wallet">
+      <img src="https://s3-ap-southeast-1.amazonaws.com/mmsproduction/program/s/ActiveSG.jpg" alt="Active Wallet">
     </td>	
     <td style="width:70%">
       	<a href="https://www.myactivesg.com/About-ActiveSG/myActiveSG-App" target="_blank">ActiveSG</a>
