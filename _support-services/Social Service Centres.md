@@ -13,7 +13,7 @@ description: ""
       <img src="https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Feb2014/20140207_zaobao_social.jpg?itok=-N0QvzAW" alt="Customs SG">
     </td>	
     <td style="width:70%">
-			<b>Social Service Centre @ Boon Lay </b><br>
+			<b>	<a href="https://www.msf.gov.sg/comcare/" target="_blank">Social Service Centre @ Boon Lay </a></b>
    <br>
 Type of Service: Financial and Legal Support - Financial-related support  
 Life Stage: Infancy &amp; Early Childhood; Tween &amp; Adolescence; Young Adulthood; Adulthood; Older Adulthood. 
@@ -55,65 +55,36 @@ Lakeside Family Services aim to develop resilience in disadvantaged children, mo
     <br></p></td>
   </tr>		
 
-<tr>
-		 <td style="width:30%">
-      <img src="/images/community/apps/Healthy 365 app 2022.png" alt="Healthy 365">
-    </td>	
-    <td style="width:70%">
-      	<a href="https://hpb.gov.sg/healthy-living/healthy-365" target="_blank">Healthy 365</a><br>
-   <br>
-	The must-have app for the National Steps Challenge, an initiative&nbsp;that encourages residents in Singapore&nbsp;to adopt a more active lifestyle, Healthy 365 also tracks one’s health and diet.<br>
-	<br>
-<div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blanket"><img alt="Apple App Store Link" src="https://d33wubrfki0l68.cloudfront.net/769d2c164a70c4400654f300f4f36f94ce152f0c/c170e/images/community/appstoreicon/apple-store.png"></a>
-          </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365" target="_blanket"><img alt="Google Play Store Link" src="https://d33wubrfki0l68.cloudfront.net/d4fb6ada6a348985c0e527742be609958e91db35/f4002/images/community/appstoreicon/google-play.png"></a>
-          </div>
-      </div>  
-    <br></td>
-  </tr>
-		
-<tr>    
-<td style="width:30%">
-      <img src="https://d33wubrfki0l68.cloudfront.net/559be37aff196fd1c8a2165b6a180bd27ebe423b/2ec12/images/community/apps/lifesg-banner.png" alt="Life SG banner">
-    </td>	
-    <td style="width:70%">
-      	<a href="https://www.life.gov.sg/" target="_blank">LifeSG</a><br>
-   <br>
-	Whether you’re a new parent or an elderly citizen, get personalised Government services and information in a timely manner. <br>
-	<br>
-<div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="https://d33wubrfki0l68.cloudfront.net/769d2c164a70c4400654f300f4f36f94ce152f0c/c170e/images/community/appstoreicon/apple-store.png"></a>
-          </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="https://d33wubrfki0l68.cloudfront.net/d4fb6ada6a348985c0e527742be609958e91db35/f4002/images/community/appstoreicon/google-play.png"></a>
-          </div>
-      </div>  
-    <br></td>
-  </tr>
-		
-<tr>    
-<td style="width:30%">
-      <img src="https://d33wubrfki0l68.cloudfront.net/d6b3b377531e3cce9520711f33817d43c397998a/6c048/images/community/apps/myenv.png" alt="my env banner">
-    </td>	
-    <td style="width:70%">
-     <a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app" target="_blank">myENV</a><br>
-   <br>
-	Hungry and looking for a nearby hawker centre? Want to be updated on dengue outbreaks in your neighbourhood or when the air quality turns bad? myENV is your go-to app. <br>
-	<br>
-<div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/myenv/id444435182" target="_blanket"><img alt="Apple App Store Link" src="https://d33wubrfki0l68.cloudfront.net/769d2c164a70c4400654f300f4f36f94ce152f0c/c170e/images/community/appstoreicon/apple-store.png"></a>
-          </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nea" target="_blanket"><img alt="Google Play Store Link" src="https://d33wubrfki0l68.cloudfront.net/d4fb6ada6a348985c0e527742be609958e91db35/f4002/images/community/appstoreicon/google-play.png"></a>
-          </div>
-      </div>  
-    <br></td>
-</tr>
 		
 <tr>
-		<td style="width:30%">
-        <img src="https://d33wubrfki0l68.cloudfront.net/44e0ffddda0ce8c377c2bd0931b9d978e0171abf/2a92b/images/community/apps/myresponder.jpg" alt="My responder banner">
+    <td style="width:30%">
+      <img src="https://viriya.org.sg/wp-content/uploads/2017/07/WHFSC-YEC-2018-Group-e1560440356492.jpg" alt="whispering">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.scdf.gov.sg/home/community-volunteers/mobile-applications" target="_blank">MyResponder</a><br>
+      			<b>	<a href="https://viriya.org.sg/our-services/family-services/whispering-hearts-family-service-centre/" target="_blank">Whispering Hearts Family Service Centre </a></b><br>
    <br>
-</td></tr></tbody></table>
+WHFSC focuses on providing holistic family-centric support to the residents comprising mainly of young families. WHFSC has established strong working relationships with its stakeholders to enhance the community capacity in supporting individuals and families through a systemic approach. <p> For Life Stages: Infancy &amp; Early Childhood; Tween &amp; Adolescence; Young Adulthood; Adulthood; Older Adulthood
+			</p><p>
+			<b> Opening hours: </b> Weekdays 9am - 12pm, 1pm - 6pm. Closed on weekends <br>
+			<b> Address:</b> 646 Jurong West Street 61, #61 Block 646, Singapore 640646 <br>
+			<b> Contact no: </b> 6795 1008 <br>
+    <br></p></td>
+  </tr>
+		
+		
+<tr>
+    <td style="width:30%">
+      <img src="https://fycs.org/wp-content/uploads/2022/08/body-logo.png" alt="feiyue">
+    </td>	
+    <td style="width:70%">
+      			<b>	<a href="http://fycs.org/" target="_blank">Fei Yue Family Services at SSO @ Taman Jurong</a></b><br>
+   <br>
+Fei Yue Family Service Centre is a not-for-profit voluntary welfare organisation established in 1991, with a mission to effect life transformation through the provision of quality social services. <p> For Life Stages: Infancy &amp; Early Childhood; Tween &amp; Adolescence; Young Adulthood; Adulthood; Older Adulthood
+			</p><p>
+			<b> Opening hours: </b> Weekdays 9am - 6pm. Closed on weekends <br>
+			<b> Address:</b> 301A Corporation Dr, Singapore 619773 <br>
+			<b> Contact no: </b> 6267 2900 <br>
+    <br></p></td>
+  </tr>
+		
+</tbody></table>
