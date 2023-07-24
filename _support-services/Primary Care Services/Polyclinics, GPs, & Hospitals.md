@@ -4,14 +4,9 @@ permalink: /polyclinics/
 description: ""
 third_nav_title: Primary Care Services
 ---
-
-
-
-
 # Polyclinics near you
 You can [make an appointment](https://www.nup.com.sg/Pages/Make-change-an-Appointment.aspx) on your OneNUHS app before your visit. Walk-in visitations may result in longer waiting times.
 
-![](https://www.nup.com.sg/PublishingImages/OneNUHS-App/OneNUHS-App-Manage-Appointments-Guide%20(JPEG).jpg)
 
 **Jurong Polyclinic**
 
