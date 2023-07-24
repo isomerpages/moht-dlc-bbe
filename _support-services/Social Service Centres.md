@@ -7,52 +7,54 @@ description: ""
 
 <table style="width:100%">
   <tbody><tr>
-    <td style="width:30%">
-      <img src="https://d33wubrfki0l68.cloudfront.net/94e4ea4c5c3358a933aa4db90339be11c5023ec6/e3d89/images/community/apps/activewallet.jpg" alt="Active Wallet">
-    </td>	
-    <td style="width:70%">
-      	<a href="https://www.myactivesg.com/About-ActiveSG/myActiveSG-App" target="_blank">ActiveSG</a><br>
-   <br>
-	Book workouts and sporting facilities as well as receive incentives through exciting fitness challenges and campaigns with the app. <br>
-	<br>
-<div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/activesg/id827595244" target="_blanket"><img alt="Apple App Store Link" src="https://d33wubrfki0l68.cloudfront.net/769d2c164a70c4400654f300f4f36f94ce152f0c/c170e/images/community/appstoreicon/apple-store.png"></a>
-          </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.iapps.ssc" target="_blanket"><img alt="Google Play Store Link" src="https://d33wubrfki0l68.cloudfront.net/d4fb6ada6a348985c0e527742be609958e91db35/f4002/images/community/appstoreicon/google-play.png"></a>
-          </div>
-      </div>  
-    <br></td>
-  </tr>
 		
-<tr>
+</tr><tr>
     <td style="width:30%">
-      <img src="https://d33wubrfki0l68.cloudfront.net/723a2a47f9edef7dfad785241301144b55b392e5/132da/images/community/apps/customs-sg.jpg" alt="Customs SG">
+      <img src="https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Feb2014/20140207_zaobao_social.jpg?itok=-N0QvzAW" alt="Customs SG">
     </td>	
     <td style="width:70%">
-      	<a href="https://m.customs.gov.sg/CustomsTravellerPortal" target="_blank">Customs@SG Web Application</a><br>
+			<b>Social Service Centre @ Boon Lay </b><br>
    <br>
-	Declare and pay taxes on your overseas purchases before you even hit  the airport, or provide tip-offs on customs offences – all via this nifty app. <br>
-	<br></td>
+Type of Service: Financial and Legal Support - Financial-related support  
+Life Stage: Infancy &amp; Early Childhood; Tween &amp; Adolescence; Young Adulthood; Adulthood; Older Adulthood. 
+			<p>
+			<b> Opening hours: </b> Weekdays 9am - 6pm, Closed on weekends <br>
+			<b> Address:</b> 189 Boon Lay Drive #01-254 Singapore 640189 <br>
+			<b> Contact no: </b> 1800 222 0000 <br>
+	<br></p></td>
 </tr>
 		
 <tr>
     <td style="width:30%">
-      <img src="https://d33wubrfki0l68.cloudfront.net/4837f1c89c41ed9514dfb21c97806e366c18f1c4/e5f15/images/community/apps/healthhub.jpg" alt="HealthHub">
+      <img src="https://lh3.googleusercontent.com/p/AF1QipN-mskbrCxGhCIRtszfPEYTXj733cHIElL2MMzt=s680-w680-h510" alt="thkmc">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.healthhub.sg/" target="_blank">HealthHub</a><br>
+      			<b>	<a href="https://www.thkmc.org.sg/" target="_blank">THK Family Service Centre @ Jurong </a></b><br>
    <br>
-	Access your health records (including COVID-19 vaccination and test results), make medical appointments as well as track medication records with this handy app. <br>
-	<br>
-<div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthhub-sg/id1034200875" target="_blanket"><img alt="Apple App Store Link" src="https://d33wubrfki0l68.cloudfront.net/769d2c164a70c4400654f300f4f36f94ce152f0c/c170e/images/community/appstoreicon/apple-store.png"></a>
-          </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthhub" target="_blanket"><img alt="Google Play Store Link" src="https://d33wubrfki0l68.cloudfront.net/d4fb6ada6a348985c0e527742be609958e91db35/f4002/images/community/appstoreicon/google-play.png"></a>
-          </div>
-      </div>  
-    <br></td>
+THKMC provides assistance to the various groups in our community through more than 60 programmes and services for the elderly and the sick, families, persons with disabilities, and children <p> For Life Stages: Infancy &amp; Early Childhood; Tween &amp; Adolescence; Young Adulthood; Adulthood; Older Adulthood
+			</p><p>
+			<b> Opening hours: </b> Weekdays 9am - 6pm, Closed on weekends <br>
+			<b> Address:</b> 183B Boon Lay Avenue, #01-716, HDB Boon Lay Grove, Singapore 642183 <br>
+			<b> Contact no: </b> 6716 9466 <br>
+    <br></p></td>
   </tr>
 		
+		
+<tr>
+    <td style="width:30%">
+      <img src="https://lh5.googleusercontent.com/p/AF1QipOj5A7jWSCYv9w7WnJkxpBPAwghd7pNfsKcktbh=w426-h240-k-no" alt="Lakeside fmc">
+    </td>	
+    <td style="width:70%">
+      			<b>	<a href="https://www.lakeside.org.sg/" target="_blank">Lakeside Family Centre (Jurong West)</a></b><br>
+   <br>
+Lakeside Family Services aim to develop resilience in disadvantaged children, mould troubled youths into contributing individuals, empower active seniors to help lonely seniors, assist ex-offenders in reintegrating into society, and help women with unsupported pregnancies. <p> For Life Stages: Infancy &amp; Early Childhood; Tween &amp; Adolescence; Young Adulthood; Adulthood; Older Adulthood
+			</p><p>
+			<b> Opening hours: </b> Weekdays 9am - 5.30pm, Closed on weekends <br>
+			<b> Address:</b> 516 Jurong West Street 52, #01-73, Singapore 640516 <br>
+			<b> Contact no: </b> 6567 1908 <br>
+    <br></p></td>
+  </tr>		
+
 <tr>
 		 <td style="width:30%">
       <img src="/images/community/apps/Healthy 365 app 2022.png" alt="Healthy 365">
@@ -114,23 +116,4 @@ description: ""
     <td style="width:70%">
       	<a href="https://www.scdf.gov.sg/home/community-volunteers/mobile-applications" target="_blank">MyResponder</a><br>
    <br>
-	Crowdsource for help during medical emergencies or report fires to the Singapore Civil Defence Force with the MyResponder app. <br>
-	<br>
-<div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391" target="_blanket"><img alt="Apple App Store Link" src="https://d33wubrfki0l68.cloudfront.net/769d2c164a70c4400654f300f4f36f94ce152f0c/c170e/images/community/appstoreicon/apple-store.png"></a>
-          </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp" target="_blanket"><img alt="Google Play Store Link" src="https://d33wubrfki0l68.cloudfront.net/d4fb6ada6a348985c0e527742be609958e91db35/f4002/images/community/appstoreicon/google-play.png"></a>
-          </div>
-      </div>  
-    <br></td>
-    </tr>
-		
-<tr>
-<td style="width:30%">
-        <img src="https://d33wubrfki0l68.cloudfront.net/73c0f289e9ffdf65c1bf5ad2e9b6aeb10c968bc1/90b2c/images/community/apps/mytransport.jpg" alt="MyTransport.SG">
-    </td>	
-    <td style="width:70%">
-      	<b>MyTransport.SG</b><br>
-   <br>
-	Go places with more useful travel information on public transport, receive notifications on MRT or traffic situations and plan your journeys with the MyTransport.SG app. <br>
-	<br></td></tr></tbody></table>
+</td></tr></tbody></table>
