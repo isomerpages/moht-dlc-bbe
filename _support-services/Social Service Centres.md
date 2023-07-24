@@ -3,8 +3,6 @@ title: Social Service Centres
 permalink: /ssc/
 description: ""
 ---
-**Ready to adopt an active lifestyle? There could be a Yoga or Zumba class near you! Explore these active opportunities via the following apps and sites.**
-
 <table style="width:100%">
   <tbody><tr>
 		
