@@ -2,7 +2,7 @@ collections:
   service-locator:
     output: true
     order:
-      - Polyclinics, GPs, & Hospitals.md
+      - Health & Medical.md
       - Mental Health Services.md
       - Housing & Food Support.md
       - Social Service Centres.md
