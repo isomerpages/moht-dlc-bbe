@@ -2,7 +2,6 @@ collections:
   support-services:
     output: true
     order:
-      - Mental Health Services.md
       - Locate A Service.md
       - Primary Care Services/.keep
       - Primary Care Services/Polyclinics, GPs, & Hospitals.md
