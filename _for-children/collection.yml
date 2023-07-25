@@ -2,5 +2,6 @@ collections:
   for-children:
     output: true
     order:
+      - Mental Health For Children.md
       - Community Programmes.md
       - Fitness Programmes.md
