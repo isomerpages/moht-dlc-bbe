@@ -4,8 +4,9 @@ permalink: /support-services/foodsupport/
 description: ""
 ---
 # Housing Support near you
-Transitional Shelter (TS) provides temporary accommodation to homeless families who have exhausted all other means of accommodation.<b>  If you and your family require TS support, a referral from a Family Service Centre (FSC) is needed. </b><p><b>Below is a list of FSCs available in Boon Lay area:
-</b>
+Transitional Shelter (TS) provides temporary accommodation to homeless families who have exhausted all other means of accommodation.<b>  If you and your family require TS support, a referral from a Family Service Centre (FSC) is needed. </b>
+<p>
+	<b>Below is a list of FSCs available in Boon Lay area:</b>
 <table style="width:100%">
   <tbody><tr>
 		
@@ -48,8 +49,8 @@ Transitional Shelter (TS) provides temporary accommodation to homeless families 
 			<b> Address:</b> 646 Jurong West Street 61, #61 Block 646, Singapore 640646 <br>
 			<b> Contact no: </b> 6795 1008 <br>
     <br></p></td>
-  </tr></tbody></table></p><p></p>
-<p>
+  </tr></tbody></table>
+</p><p>
 	</p><div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> To view housing schemes &amp; other support services</div>
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
