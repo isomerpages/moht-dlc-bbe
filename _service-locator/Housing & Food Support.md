@@ -3,6 +3,56 @@ title: Housing & Food Support
 permalink: /support-services/foodsupport/
 description: ""
 ---
+# Housing Support near you
+Transitional Shelter (TS) provides temporary accommodation to homeless families who have exhausted all other means of accommodation.<b>  If you and your family require TS support, a referral from a Family Service Centre (FSC) is needed. </b><p><b>Below is a list of FSCs available in Boon Lay area:
+</b>
+<table style="width:100%">
+  <tbody><tr>
+		
+</tr><tr>
+    <td style="width:30%">
+      <img src="https://lh3.googleusercontent.com/p/AF1QipN-mskbrCxGhCIRtszfPEYTXj733cHIElL2MMzt=s680-w680-h510" alt="thkmc">
+    </td>	
+    <td style="width:70%">
+      			<b>	<a href="https://www.thkmc.org.sg/" target="_blank">THK Family Service Centre @ Jurong </a></b>
+			<p></p><p>
+			<b> Opening hours: </b> Weekdays 9am - 6pm, Closed on weekends <br>
+			<b> Address:</b> 183B Boon Lay Avenue, #01-716, HDB Boon Lay Grove, Singapore 642183 <br>
+			<b> Contact no: </b> 6716 9466 <br>
+    <br></p></td>
+  </tr>
+		
+		
+<tr>
+    <td style="width:30%">
+      <img src="https://lh5.googleusercontent.com/p/AF1QipOj5A7jWSCYv9w7WnJkxpBPAwghd7pNfsKcktbh=w426-h240-k-no" alt="Lakeside fmc">
+    </td>	
+    <td style="width:70%">
+      			<b>	<a href="https://www.lakeside.org.sg/" target="_blank">Lakeside Family Centre (Jurong West)</a></b>
+			<p></p><p>
+			<b> Opening hours: </b> Weekdays 9am - 5.30pm, Closed on weekends <br>
+			<b> Address:</b> 516 Jurong West Street 52, #01-73, Singapore 640516 <br>
+			<b> Contact no: </b> 6567 1908 <br>
+    <br></p></td>
+  </tr>		
+
+		
+<tr>
+    <td style="width:30%">
+      <img src="https://viriya.org.sg/wp-content/uploads/2017/07/WHFSC-YEC-2018-Group-e1560440356492.jpg" alt="whispering">
+    </td>	
+    <td style="width:70%">
+      			<b>	<a href="https://viriya.org.sg/our-services/family-services/whispering-hearts-family-service-centre/" target="_blank">Whispering Hearts Family Service Centre </a></b>
+			<p></p><p>
+			<b> Opening hours: </b> Weekdays 9am - 12pm, 1pm - 6pm. Closed on weekends <br>
+			<b> Address:</b> 646 Jurong West Street 61, #61 Block 646, Singapore 640646 <br>
+			<b> Contact no: </b> 6795 1008 <br>
+    <br></p></td>
+  </tr></tbody></table></p><p></p>
+<p>
+
+# Food Support Services near you
+
 <table style="width:100%">
   <tbody><tr>
 		
@@ -46,12 +96,12 @@ To reallocate existing resources and increase quantum for those in need of finan
 			<b> Address:</b> 316 Jurong East Street 32, Block 316, #01-279, Singapore 600316 <br>
 			<b> Contact no: </b> 6567 4166 <br>
     <br></p></td>
-  </tr></tbody></table><p></p>
+  </tr></tbody></table></p><p></p>
 
-<div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
+<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> For more housing &amp; food support options</div>
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
-		<li><a href="https://www.todayonline.com/singapore/hdb-completes-semas-test-bed">2015: HDB completes trial of smart elderly monitoring and alert system</a></li>
-		<li><a href="https://www.channelnewsasia.com/cnainsider/when-someone-dies-alone-singapore-this-is-what-happens-seniors-769486">CNA Insider: When someone dies alone in Singapore, this is what happens</a></li>
+		<li><a href="https://foodconnect.gov.sg/directory/">Foodconnect.gov.sg</a></li>
+		<li><a href="https://findfoodsupport.sg/">Food support directory by The Food Bank Singapore</a></li>
 	</ul>
 </div>
