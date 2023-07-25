@@ -2,4 +2,5 @@ collections:
   for-children:
     output: true
     order:
+      - Community Programmes.md
       - Fitness Programmes.md
