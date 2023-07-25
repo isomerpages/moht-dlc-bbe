@@ -50,7 +50,14 @@ Transitional Shelter (TS) provides temporary accommodation to homeless families 
     <br></p></td>
   </tr></tbody></table></p><p></p>
 <p>
-
+	</p><div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> For more housing &amp; food support options</div>
+<div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
+	<ul>
+		<li><a href="https://foodconnect.gov.sg/directory/">Foodconnect.gov.sg</a></li>
+		<li><a href="https://findfoodsupport.sg/">Food support directory by The Food Bank Singapore</a></li>
+	</ul>
+</div>
+	
 # Food Support Services near you
 
 <table style="width:100%">
@@ -96,9 +103,9 @@ To reallocate existing resources and increase quantum for those in need of finan
 			<b> Address:</b> 316 Jurong East Street 32, Block 316, #01-279, Singapore 600316 <br>
 			<b> Contact no: </b> 6567 4166 <br>
     <br></p></td>
-  </tr></tbody></table></p><p></p>
+  </tr></tbody></table><p></p><p></p>
 
-<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> For more housing &amp; food support options</div>
+<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> For more food support options</div>
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
 		<li><a href="https://foodconnect.gov.sg/directory/">Foodconnect.gov.sg</a></li>
