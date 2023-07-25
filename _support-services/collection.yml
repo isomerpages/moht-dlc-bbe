@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Housing & Food Support.md
-      - Social Service Centres.md
       - Mental Health Services.md
       - Locate A Service.md
       - Primary Care Services/.keep
