@@ -1,4 +1,5 @@
 collections:
   for-youths:
     output: true
-    order: []
+    order:
+      - Fitness Programmes.md
