@@ -61,7 +61,7 @@ You can [make an appointment](https://www.nup.com.sg/Pages/Make-change-an-Appoin
     
 *   Tel: 6261 0672
 
-Click here for more GPs in your district
+
 
 # Nearest Hospital
 ![Ng Teng Fong General Hospital &amp; Jurong Community Hospital - HOK](https://www.hok.com/wp-content/uploads/2019/05/Ng-Teng-Fong-Hospital-Overall-1900-1600x1069.jpg)
