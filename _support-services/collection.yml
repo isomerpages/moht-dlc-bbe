@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Locate A Service.md
-      - Primary Care Services/.keep
       - Social Services/.keep
       - Social Services/Social Service Office @ Boon Lay.md
       - Social Services/Family Service Centre @ Jurong.md
