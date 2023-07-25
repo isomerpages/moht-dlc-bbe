@@ -1,4 +1,5 @@
 collections:
   for-children:
     output: true
-    order: []
+    order:
+      - Fitness Programmes.md
