@@ -10,3 +10,5 @@ links:
     collection: programmes
   - title: Chat with DLC bot
     url: /supportchat
+  - title: Service Locator
+    collection: service-locator
