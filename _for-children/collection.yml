@@ -2,7 +2,7 @@ collections:
   for-children:
     output: true
     order:
-      - Child Care Services.md
-      - Mental Health For Children.md
-      - Community Programmes.md
       - Fitness Programmes.md
+      - Community Programmes.md
+      - Mental Health For Children.md
+      - Child Care Services.md
