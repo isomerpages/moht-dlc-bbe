@@ -50,11 +50,11 @@ Transitional Shelter (TS) provides temporary accommodation to homeless families 
     <br></p></td>
   </tr></tbody></table></p><p></p>
 <p>
-	</p><div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> For more housing &amp; food support options</div>
+	</p><div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> To view housing schemes &amp; other support services</div>
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
-		<li><a href="https://foodconnect.gov.sg/directory/">Foodconnect.gov.sg</a></li>
-		<li><a href="https://findfoodsupport.sg/">Food support directory by The Food Bank Singapore</a></li>
+		<li><a href="https://supportgowhere.life.gov.sg/categories/housing-shelter">Supportgowhere.gov.sg</a></li>
+		<li><a href="https://familyassist.msf.gov.sg/content/resources/family-assist-resources/housing-resources/">Housing Resources by Ministry of Social and Family Development (MSF)</a></li>
 	</ul>
 </div>
 	
