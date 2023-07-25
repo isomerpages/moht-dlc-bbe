@@ -1,4 +1,5 @@
 collections:
   for-adults:
     output: true
-    order: []
+    order:
+      - Fitness Programmes.md
