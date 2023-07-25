@@ -2,5 +2,6 @@ collections:
   for-seniors:
     output: true
     order:
+      - Mental Health for Seniors.md
       - Community Programmes.md
       - Fitness Programmes.md
