@@ -1,0 +1,4 @@
+collections:
+  service-locator:
+    output: true
+    order: []
