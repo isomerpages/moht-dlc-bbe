@@ -3,7 +3,7 @@ title: Housing & Food Support
 permalink: /support-services/foodsupport/
 description: ""
 ---
-&gt; As a cook, it's very hard if there's not enough oil or sauce or sugar. But because of Food from the Heart, I don't need to worry. Every time I go down (to collect food items), they say, "What you need, you take." This is really the best thing.
+&gt;As a cook, it's very hard if there's not enough oil or sauce or sugar. But because of Food from the Heart, I don't need to worry. Every time I go down (to collect food items), they say, "What you need, you take." This is really the best thing. 
 <p>
 
 <table style="width:100%">
