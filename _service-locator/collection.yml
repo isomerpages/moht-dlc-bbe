@@ -2,5 +2,6 @@ collections:
   service-locator:
     output: true
     order:
+      - Mental Health Services.md
       - Housing & Food Support.md
       - Social Service Centres.md
