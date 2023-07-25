@@ -1,4 +1,5 @@
 collections:
   service-locator:
     output: true
-    order: []
+    order:
+      - Social Service Centres.md
