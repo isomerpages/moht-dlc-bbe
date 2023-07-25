@@ -2,7 +2,6 @@ collections:
   service-locator:
     output: true
     order:
-      - Housing & Food.md
       - Health & Medical.md
       - Mental Health Services.md
       - Housing & Food Support.md
