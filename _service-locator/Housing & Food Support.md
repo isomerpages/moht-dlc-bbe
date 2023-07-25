@@ -3,9 +3,6 @@ title: Housing & Food Support
 permalink: /support-services/foodsupport/
 description: ""
 ---
-&gt;As a cook, it's very hard if there's not enough oil or sauce or sugar. But because of Food from the Heart, I don't need to worry. Every time I go down (to collect food items), they say, "What you need, you take." This is really the best thing. 
-<p>
-
 <table style="width:100%">
   <tbody><tr>
 		
@@ -49,4 +46,12 @@ To reallocate existing resources and increase quantum for those in need of finan
 			<b> Address:</b> 316 Jurong East Street 32, Block 316, #01-279, Singapore 600316 <br>
 			<b> Contact no: </b> 6567 4166 <br>
     <br></p></td>
-  </tr></tbody></table></p>
+  </tr></tbody></table><p></p>
+
+<div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
+<div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
+	<ul>
+		<li><a href="https://www.todayonline.com/singapore/hdb-completes-semas-test-bed">2015: HDB completes trial of smart elderly monitoring and alert system</a></li>
+		<li><a href="https://www.channelnewsasia.com/cnainsider/when-someone-dies-alone-singapore-this-is-what-happens-seniors-769486">CNA Insider: When someone dies alone in Singapore, this is what happens</a></li>
+	</ul>
+</div>
