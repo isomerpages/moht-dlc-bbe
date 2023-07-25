@@ -2,7 +2,6 @@ collections:
   for-adults:
     output: true
     order:
-      - Health & Medical.md
       - Mental Health For Adults.md
       - Community Programmes.md
       - Fitness Programmes.md
