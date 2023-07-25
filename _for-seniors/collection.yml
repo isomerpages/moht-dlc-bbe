@@ -1,4 +1,5 @@
 collections:
   for-seniors:
     output: true
-    order: []
+    order:
+      - Fitness Programmes.md
