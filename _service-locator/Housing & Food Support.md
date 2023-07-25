@@ -95,7 +95,7 @@ Food Gifts are given out to deserving families each month and the need for this 
 			<b>MEAL &amp; TRANSPORT SCHEME (For Pri/Sec school children)</b><br>
 Over the years, Pupil Breakfast Scheme (PBS) ensured that school-going children receive adequate nutrition to meet their growing needs. It has reached out to more than 6000 school going children and dispersed more than $1.9 million since its inception in 2006.<br>
 			
-To reallocate existing resources and increase quantum for those in need of financial assistance, we launched the Meal and Transport Scheme in 2023 under our Empowering Youth Fund. It aims to continue to support the children in their needs while reaching out to families who have fallen through the cracks and fail to receive MOE FAS.
+To reallocate existing resources and increase quantum for those in need of financial assistance, we launched the Meal and Transport Scheme in 2023 under our Empowering Youth Fund. It aims to continue to support the children in their needs while reaching out to families who have fallen through the cracks and fail to receive MOE FAS.</p><p>
 
 <u>Primary school beneficiaries will receive <b>$40 or $60 </b> a month and secondary school beneficiaries receive <b>$80 or $90</b> a month via their EZ-Link Card. <br> <a href="https://www.lovingheartjurong.org.sg/services/meal-transport-scheme/" target="_blank">Find out more here</a>
 			</u></p><p>
