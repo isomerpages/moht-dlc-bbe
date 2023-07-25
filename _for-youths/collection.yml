@@ -2,4 +2,5 @@ collections:
   for-youths:
     output: true
     order:
+      - Community Programmes.md
       - Fitness Programmes.md
