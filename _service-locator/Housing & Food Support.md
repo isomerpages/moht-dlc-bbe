@@ -88,11 +88,11 @@ Marketplace for families in need of food provision to "shop" for their necessiti
    <br>
 			<b>MEALS ON US (MOU)</b><br>
 Meals On Us is a community collaboration with the local grassroots and hawker owners to provide daily hot meals for residents in need. These residents include vulnerable seniors, needy families, and livelihoods affected by COVID-19.&nbsp;<br><br>Service-users of the programme&nbsp;can redeem up to&nbsp;two meals&nbsp;a day from partnering hawker owners using a physical voucher or unique QR code. Our volunteers are also deployed to assist&nbsp;service-users&nbsp;who are unable to redeem the food&nbsp;by themselves. <br> <a href="https://lovingheart.org.sg/services/" target="_blank">Find out more here</a>
-			
+			<p>
 <b> REFERRAL &amp; FOOD GIFT+ PROGRAMME</b><br>
 In these times of uncertain economy and social environments, several individuals and families face the consequence of getting left behind. Our assistance and services are catered to help residents cope with difficult times caused by circumstances, such as sudden unemployment or illness.
 
-Food Gifts are given out to deserving families each month and the need for this assistance has been increasing over the years. Duration of assistance is assessed on a case-by-case basis. [Find out more here](https://www.lovingheartjurong.org.sg/services/case-management-food-gifts/) <p>
+Food Gifts are given out to deserving families each month and the need for this assistance has been increasing over the years. Duration of assistance is assessed on a case-by-case basis. <br> <a href="https://www.lovingheartjurong.org.sg/services/case-management-food-gifts/" target="_blank">Find out more here</a></p><p>
 			<b>MEAL &amp; TRANSPORT SCHEME (For Pri/Sec school children)</b><br>
 Over the years, Pupil Breakfast Scheme (PBS) ensured that school-going children receive adequate nutrition to meet their growing needs. It has reached out to more than 6000 school going children and dispersed more than $1.9 million since its inception in 2006.<br>
 			
