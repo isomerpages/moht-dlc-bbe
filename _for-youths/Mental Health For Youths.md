@@ -41,8 +41,8 @@ WHFSC focuses on providing holistic family-centric support to the residents comp
 <div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> More mental health resources for youths </div>
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
-		<li>Download <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 </a>   to browse more free fitness programmes
+		<li>Explore <a href="https://www.healthhub.sg/programmes/186/MindSG/Discover" target="_blank">MindSG </a> for a suite of self-care tools and resources
 		</li><li><a href="https://youthopia.sg/read/six-free-apps-that-will-improve-your-mental-wellness/">6 free apps that will improve your mental wellness</a></li>
-		<li><a href="https://www.onepa.gov.sg/courses/sports-fitness">One PA - Sports &amp; Fitness Courses</a></li>
+		<li>Chat with mental health professionals on<a href="https://www.imh.com.sg/CHAT/Get-Help/webCHAT/Pages/default.aspx"> CHAT</a></li>
 	</ul>
 </div>
