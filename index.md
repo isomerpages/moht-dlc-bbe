@@ -20,6 +20,8 @@ sections:
             url: /for-youths/youthfitness/
           - title: For Adult (19-49 Years Old)
             url: /for-adults/fitness/
+          - title: For Seniors (≥50 Years Old)
+            url: /for-seniors/fitness/
   - infopic:
       title: Digital Local Connect
       description: A resource library for precinct leaders, volunteers, and
