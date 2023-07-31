@@ -22,7 +22,6 @@ description: ""
 			<b>	<a target="_blank" href="https://www.mindline.sg/home"> Mindline.sg </a></b>
    <br>
 			<b>Stressed out? Need a place to share your thoughts and find support? <br> Visit Mindline.sg for an interactive experience with their Mental Health support system. </b>
-			   
 &nbsp;&nbsp;<li>Learn self-care techniques by chatting with their AI chatbot, Wysa  
 &nbsp;&nbsp;</li><li>Get support for yourself or a loved one based on your situation.  
 &nbsp;&nbsp;</li><li>See the various helplines available (<a target="_blank" href="https://www.mindline.sg/get-help"> Click here to view </a>).  
