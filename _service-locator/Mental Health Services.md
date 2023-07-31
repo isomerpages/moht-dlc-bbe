@@ -26,7 +26,6 @@ description: ""
 &nbsp;&nbsp;<li>Learn self-care techniques by chatting with their AI chatbot, Wysa  
 &nbsp;&nbsp;</li><li>Get support for yourself or a loved one based on your situation.  
 &nbsp;&nbsp;</li><li>See the various helplines available (<a target="_blank" href="https://www.mindline.sg/get-help"> Click here to view </a>).  
-
 			 <br>
 	<br><p></p><p></p></li></td>
 </tr>
