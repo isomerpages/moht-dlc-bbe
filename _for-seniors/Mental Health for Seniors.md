@@ -3,7 +3,7 @@ title: Mental Health for Seniors
 permalink: /for-seniors/mentalhealth/
 description: ""
 ---
-## Services available in Boon Lay
+## Mental Health Services available in Boon Lay
 
 
 <img alt="mindline" src="https://supportgowhere.life.gov.sg/static/Img_Mast_Seniors-260a8c55.svg">
