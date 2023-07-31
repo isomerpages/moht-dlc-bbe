@@ -58,11 +58,11 @@ description: ""
 	
 
 
-<div class="row" style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> More mental health resources for youths </div>
+<div class="row" style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> More mental health resources  </div>
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
 	<ul>
 		<li>Explore <a target="_blank" href="https://www.healthhub.sg/programmes/186/MindSG/Discover">MindSG </a> for a suite of self-care tools and resources
 		</li><li><a href="https://youthopia.sg/read/six-free-apps-that-will-improve-your-mental-wellness/">6 free apps that will improve your mental wellness</a></li>
-		<li>Chat with mental health professionals on<a href="https://www.imh.com.sg/CHAT/Get-Help/webCHAT/Pages/default.aspx"> CHAT</a></li>
+		<li>Got an Apple Watch? Try out <a href="https://www.imh.com.sg/CHAT/Get-Help/webCHAT/Pages/default.aspx"> LumiHealth</a> app to complete healthy challenges through gamification. </li>
 	</ul>
 </div>
