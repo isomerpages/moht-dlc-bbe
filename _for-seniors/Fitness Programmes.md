@@ -54,7 +54,7 @@ Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyli
     </td>	
     <td style="width:70%">
       			<b>Senior Gym | Fitness Classes @ NTUC Health Active Ageing Centre (Care) (Jurong Central Plaza)</b><p>
-		Enquire for slots at <a href="https://ntuchealth.sg/active-ageing/services/senior-gym" target="_blank">Active Ageing - Senior Gym</a>. <br>
+		Located island-wide, our gyms offer a selection of strength-focused programmes led by qualified and experienced trainers. From Circuit Training, Gym Tonic to Functional Strength Training, our trainers will customise the intensity of the exercise to suit your abilities and ensure your safety and comfort.<br><br>Enquire for slots at <a href="https://ntuchealth.sg/active-ageing/services/senior-gym" target="_blank">Active Ageing - Senior Gym</a>. <br>
 			<b> Opening hours:</b> Mon (9am-5pm), Tue (9am-1pm), Wed (9am-4pm), Thu (9am-5pm). <br>Closed on Fri, Sat &amp; Sun<br>
 			<b> Address:</b> Blk 493 Jurong West Street 41, #02-01, Singapore 640493<br>
 			<b> Contact no: </b> 9028 2440<br>
