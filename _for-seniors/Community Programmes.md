@@ -51,7 +51,7 @@ THK Active Ageing Centres (AACs) extend support to seniors living nearby in the 
    <p>
 Set up by IMDA, Boon Lay Wellness Centre is manned by digital ambassadors whose main aim is to assist our residents in understanding more about digital tech. This includes helping them to be more comfortable with Whatsapp, Zoom, Email, Wireless@SG and to utilise e-payments!
 			</p><p></p><h5>Activities @ BLWC</h5><img src="https://scontent.fsin7-1.fna.fbcdn.net/v/t39.30808-6/356210954_646666190827852_2487257663277420739_n.jpg?stp=cp6_dst-jpg_p526x296&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=53FdPwOlrFEAX-4CIM4&amp;_nc_ht=scontent.fsin7-1.fna&amp;oh=00_AfAuLwI8jKruE0VwyudiHsTMz_636_2SzpGrSyk9qs3QzA&amp;oe=64CC8779" alt="blwc">
-			<p>
+			<p><a href="https://ibb.co/kqpnYJR"><img border="0" alt="msg-1186409560-1327" src="https://i.ibb.co/F89vGXS/msg-1186409560-1327.jpg"></a><br>
 			<b> Opening hours:</b> Depending on availability of events (Refer to <a href="https://t.me/oneboonlay" target="_blank">Oneboonlay</a> channel on Telegram for event updates)
 	<br>Closed on Sun &amp; PH<br>
 			<b> Address:</b> Blk 209 Boon Lay Pl, #01-239, Singapore 640209 <br>
