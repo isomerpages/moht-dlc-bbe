@@ -2,7 +2,7 @@ collections:
   for-adults:
     output: true
     order:
-      - Mental Health Services.md
-      - Mental Health For Adults.md
-      - Community Programmes.md
       - Fitness Programmes.md
+      - Community Programmes.md
+      - Mental Health For Adults.md
+      - Mental Health Services.md
