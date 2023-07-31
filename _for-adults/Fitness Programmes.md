@@ -27,24 +27,24 @@ Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyli
       <img src="https://assets.avenueone.sg/wp-content/uploads/2019/11/best-zumba-class-singapore-beatfactory-fitness.jpg" alt="Zumba">
     </td>	
     <td style="width:70%">
-      			<b>	Taichi - A3683 (Zone C)</b>
+      			<b>	Zumba - A0806 (Zone E)</b>
    <br><br>
 Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 app</a>. <br>
-			<b> Date &amp; time:</b> Every Tue 7.30pm - 8.30pm<br>
-			<b> Address:</b> Blk 262B, Boon Lay Dr, MPH S642262<br>
+			<b> Date &amp; time:</b> Every Mon 7.30pm - 8.30pm<br>
+			<b> Address:</b> Blk 677, Jurong West St 64, Badminton Court, S640677<br>
 			<b> Contact no: </b> 9070 3251 <br>
     <br><p></p></td>
   </tr>
 	
 <tr>
     <td style="width:30%">
-      <img src="https://wisefitnessacademy.com/wp-content/uploads/2021/05/resistance-bands-for-elderly-.jpg" alt="rsistance">
+      <img src="https://safra-resources.azureedge.net/media-library/images/default-source/default-album/kpopx-(main-image).jpg?sfvrsn=73523d4d_0" alt="rsistance">
     </td>	
     <td style="width:70%">
-      			<b>Resistance Bands Exercise - A1433 (Zone B)</b><p>
+      			<b>KpopX Fitness - A3682 (Zone D)</b><p>
 		Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 app</a>. <br>
-			<b> Date &amp; time:</b> Every Wed 9.30am - 10.30am <br>
-			<b> Address:</b> Boon Lay Zone B Residents' Network (682C Jurong West Central 1, Singapore 643682)<br>
+			<b> Date &amp; time:</b> Every Mon 8am - 9am <br>
+			<b> Address:</b> Boon Lay Zone D Residents' Network (Pavillion at Blk 189A, Boon Lay Dr, S641189) <br>
 			<b> Contact no: </b> 9070 3251<br>
 			 <br></p><p></p></td>
   </tr>
