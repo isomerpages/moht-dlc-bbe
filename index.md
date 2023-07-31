@@ -11,17 +11,16 @@ sections:
       subtitle: A pocket guide for volunteers & providers to access resources in your
         neighbourhood for Boon Lay residents
       background: /images/19439xeey.jpg
-      dropdown:
-        title: Select Age Category
-        options:
-          - title: For Children (0-12 Years Old)
-            url: /for-children/fitness/
-          - title: For Youth (13-21Years Old)
-            url: /for-youths/youthfitness/
-          - title: For Adult (19-49 Years Old)
-            url: /for-adults/fitness/
-          - title: For Seniors (≥50 Years Old)
-            url: /for-seniors/fitness/
+      key_highlights:
+        - title: Find a Service
+          description: Within Boon Lay
+          url: /findaservice
+        - title: Training Guides
+          description: Boost your skills & knowledge
+          url: /learning-hub/caregiversupport/
+        - title: Join on Telegram
+          description: Community chatbot
+          url: /telegramchat
   - infopic:
       title: Digital Local Connect
       description: A resource library for precinct leaders, volunteers, and
