@@ -68,7 +68,7 @@ Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyli
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
 		<li>Download <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 </a>   to browse more free fitness programmes
-		</li><li><a href="https://ntuchealth.sg/active-ageing/services/senior-gym">NTUC Health Senior Gyms</a></li>
+		</li><li><a href="https://www.activesgcircle.gov.sg/activehealth/seniors/programmes">ActiveSG - Programmes for Seniors</a></li>
 		<li><a href="https://www.onepa.gov.sg/courses/sports-fitness">One PA - Sports &amp; Fitness Courses</a></li>
 	</ul>
 </div>
