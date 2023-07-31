@@ -50,14 +50,14 @@ Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyli
   </tr>
 		<tr>
     <td style="width:30%">
-      <img src="![fui]()" alt="rsistance">
+      <img src="https://assets-prod.ntuchealth.sg/nh/_1200x630_crop_center-center_82_none/IMG_1681-3.jpg?mtime=1661392967" alt="senior gym">
     </td>	
     <td style="width:70%">
-      			<b>Resistance Bands Exercise - A1433 (Zone B)</b><p>
-		Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 app</a>. <br>
-			<b> Date &amp; time:</b> Every Wed 9.30am - 10.30am <br>
-			<b> Address:</b> Boon Lay Zone B Residents' Network (682C Jurong West Central 1, Singapore 643682)<br>
-			<b> Contact no: </b> 9070 3251<br>
+      			<b>Senior Gym | Fitness Classes @ NTUC Health Active Ageing Centre (Care) (Jurong Central Plaza)</b><p>
+		Enquire for slots at <a href="https://ntuchealth.sg/active-ageing/services/senior-gym" target="_blank">Active Ageing - Senior Gym</a>. <br>
+			<b> Opening hours:</b> Mon (9am-5pm), Tue (9am-1pm), Wed (9am-4pm), Thu (9am-5pm). <br>Closed on Fri, Sat &amp; Sun<br>
+			<b> Address:</b> Blk 493 Jurong West Street 41, #02-01, Singapore 640493<br>
+			<b> Contact no: </b> 9028 2440<br>
     <br></p></td>
   </tr></tbody></table><p></p><p></p>
 	
