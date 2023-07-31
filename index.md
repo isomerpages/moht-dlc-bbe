@@ -11,16 +11,15 @@ sections:
       subtitle: A pocket guide for volunteers & providers to access resources in your
         neighbourhood for Boon Lay residents
       background: /images/19439xeey.jpg
-      key_highlights:
-        - title: Support Services
-          description: Within Boon Lay
-          url: /support-services/locationmap/
-        - title: Training Courses & Guides
-          description: Boost your skills & knowledge
-          url: /learning-hub/caregiversupport/
-        - title: Join us on Telegram!
-          description: Chat with our AI bot
-          url: /supportchat
+      dropdown:
+        title: Select Age Category
+        options:
+          - title: For Children (0-12 Years Old)
+            url: /for-children/fitness/
+          - title: For Youth (13-21Years Old)
+            url: /for-youths/youthfitness/
+          - title: Hero Dropdown Element Title
+            url: ""
   - infopic:
       title: Digital Local Connect
       description: A resource library for precinct leaders, volunteers, and
