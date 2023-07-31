@@ -26,8 +26,7 @@ description: ""
     </td>	
     <td style="width:70%">
       			<b>	<a href="https://viriya.org.sg/our-services/family-services/whispering-hearts-family-service-centre/" target="_blank">Whispering Hearts Family Service Centre </a></b><br>
-   <br>
-WHFSC focuses on providing holistic family-centric support to the residents comprising mainly of young families. WHFSC has established strong working relationships with its stakeholders to enhance the community capacity in supporting individuals and families through a systemic approach. <p> For Life Stages: Infancy &amp; Early Childhood; Tween &amp; Adolescence; Young Adulthood; Adulthood; Older Adulthood
+   <p>WHFSC focuses on providing holistic family-centric support to the residents comprising mainly of young families. WHFSC has established strong working relationships with its stakeholders to enhance the community capacity in supporting individuals and families through a systemic approach. </p><p> For Life Stages: Infancy &amp; Early Childhood; Tween &amp; Adolescence; Young Adulthood; Adulthood; Older Adulthood
 			</p><p>
 			<b> Opening hours: </b> Weekdays 9am - 12pm, 1pm - 6pm. Closed on weekends <br>
 			<b> Address:</b> 646 Jurong West Street 61, #61 Block 646, Singapore 640646 <br>
