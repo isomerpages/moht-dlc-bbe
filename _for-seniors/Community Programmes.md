@@ -34,11 +34,11 @@ Explore a variety of active ageing programmes, health screenings and fitness cla
    <p>
 THK Active Ageing Centres (AACs) extend support to seniors living nearby in the community. The centres provide a platform for seniors to engage in recreational activities and create opportunities for them to build strong social bonds. </p><p>
 		The centres also offer vulnerable and homebound elderly additional support services such as befriending, emergency alert response calls, and referral for eldercare-related issues.</p><p>
-			<b> Opening hours:</b> Mon-Fri 9am - 6pm, Sat 9am-1pm 
-	<br>Closed on Sun<br>
-			<b> Address:</b> 179 Boon Lay Dr, #01-448, Singapore 640179 <br>
-			<b> Contact no: </b> 6590 4368 <br>
-	<b> Whatsapp to enquire:</b> 8163 2640
+			<b> Opening hours:</b> Mon-Fri 8.30am - 5.30pm, Sat 8.30am-12.30pm 
+	<br>Closed on Sun &amp; PH<br>
+			<b> Address:</b> Blk 190 Boon Lay Drive #01-242 Singapore 640190 <br>
+			<b> Contact no: </b> 6264 6065 <br>
+	<b> Email:</b>  AAC.Boonlay@thkmc.org.sg
 </p>
     <br></td>
   </tr>
