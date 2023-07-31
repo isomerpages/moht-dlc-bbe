@@ -78,7 +78,8 @@ Set up by IMDA, Boon Lay Wellness Centre is manned by digital ambassadors whose 
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
 		<li>Visit <a href="https://www.onepa.gov.sg/events/search?events=&amp;aoi=&amp;sort=rel&amp;outlet=Boon%20Lay%20CC&amp;showAllResults=true" target="_blank">Onepa.gov.sg </a>  to explore more community events.
-		</li><li><a href="https://ntuchealth.sg/elderly-care/resources/ageless-senior/10-fun-ways-seniors-can-age-actively-in-singapore">10 Fun Ways Seniors Can Age Actively in Singapore</a></li>
+		</li>
 		<li>Visit <a href="https://silveractivities.com/">Silveractivities</a> for easy-to-use products and applications for the elderly to enable increased independence, avoid social isolation and stay engaged. </li>
+		<li><a href="https://ntuchealth.sg/elderly-care/resources/ageless-senior/10-fun-ways-seniors-can-age-actively-in-singapore">10 Fun Ways Seniors Can Age Actively in Singapore</a></li>
 	</ul>
 </div>
