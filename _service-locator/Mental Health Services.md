@@ -7,38 +7,46 @@ description: ""
 
 ![Mental Wellness and How to Improve It - Domus Retreat®](https://domusretreat.com/wp-content/uploads/mental-wellness.png)
 
-### Online Support
-Stressed out? Need a place to share your thoughts and find support? 
-<br> Visit [Mindline.sg](https://www.mindline.sg/home)  for an interactive experience with their Mental Health support system.
-* Learn self-care techniques by chatting with their AI chatbot, Wysa
-* Get support for yourself or a loved one based on your situation
-* See the various helplines available ([Click here to view](https://mindline.sg/youth/get-help))
 
-### **Nearby services available**
+<p>
+	
+<table style="width:100%">
+  <tbody><tr>
+		
+</tr><tr>
+    <td style="width:30%">
+      <img src="https://www.mindline.sg/assets/img/wysaLogo.svg" alt="mindline">
+    </td>	
+    <td style="width:70%">
+			<b>	<a href="https://www.mindline.sg/home" target="_blank"> Mindline.sg </a></b>
+   <br>
+			<b>Stressed out? Need a place to share your thoughts and find support? <br> Visit Mindline.sg for an interactive experience with their Mental Health support system. </b><p>
+			  Learn self-care techniques by chatting with their AI chatbot, Wysa <br>
+Get support for yourself or a loved one based on your situation <br>See the various helplines available (<a href="https://www.mindline.sg/get-help" target="_blank"> Click here to view </a>)
+	<br></p><p></p></td>
+</tr>
+		<tr>
+    <td style="width:30%">
+      <img src="https://viriya.org.sg/wp-content/uploads/2017/07/WHFSC-YEC-2018-Group-e1560440356492.jpg" alt="whispering">
+    </td>	
+    <td style="width:70%">
+      			<b>	<a href="https://viriya.org.sg/our-services/family-services/whispering-hearts-family-service-centre/" target="_blank">Whispering Hearts Family Service Centre </a></b><br>
+   <p>WHFSC focuses on providing holistic family-centric support to the residents comprising mainly of young families. WHFSC has established strong working relationships with its stakeholders to enhance the community capacity in supporting individuals and families through a systemic approach. </p><p> For Life Stages: Infancy &amp; Early Childhood; Tween &amp; Adolescence; Young Adulthood; Adulthood; Older Adulthood
+			</p><p>
+			<b> Opening hours: </b> Weekdays 9am - 12pm, 1pm - 6pm. Closed on weekends <br>
+			<b> Address:</b> 646 Jurong West Street 61, #61 Block 646, Singapore 640646 <br>
+			<b> Contact no: </b> 6795 1008 <br>
+    <br></p></td>
+  </tr></tbody></table></p><p></p><p></p>
+	
+	
 
-**1. [Whispering Hearts Family Service Centre](https://viriya.org.sg/our-services/family-services/whispering-hearts-family-service-centre/)**
-* WHFSC can link families and individuals up to Viriya Specialist Services such as mental health services to those who require them. Speak to a staff to find out more!
-*   **Location:**&nbsp;646 Jurong West Street 61 #01-142 Singapore 640646
-    
-*   **Opening hours:**
-    
-	<table style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; border-collapse: collapse; width: 615.891px; margin-bottom: 1em; margin-top: 3px; line-height: 1.58;" class="WgFkxc"><tbody style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;"><tr style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; font-weight: bold; color: rgb(32, 33, 36);" class="K7Ltle"><td style="box-sizing: border-box; font-family: Lato; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0px 8px 0px 0px; vertical-align: top; max-width: 173px;" class="SKNSIb">Friday</td><td style="box-sizing: border-box; font-family: Lato; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0px; vertical-align: top;">9 am–12 pm, 1–6 pm</td></tr><tr style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;"><td style="box-sizing: border-box; font-family: Lato; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0px 8px 0px 0px; vertical-align: top; max-width: 173px;" class="SKNSIb">Saturday</td><td style="box-sizing: border-box; font-family: Lato; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0px; vertical-align: top;">Closed</td></tr><tr style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;"><td style="box-sizing: border-box; font-family: Lato; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0px 8px 0px 0px; vertical-align: top; max-width: 173px;" class="SKNSIb">Sunday</td><td style="box-sizing: border-box; font-family: Lato; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0px; vertical-align: top;">Closed</td></tr><tr style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;"><td style="box-sizing: border-box; font-family: Lato; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0px 8px 0px 0px; vertical-align: top; max-width: 173px;" class="SKNSIb">Monday</td><td style="box-sizing: border-box; font-family: Lato; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0px; vertical-align: top;">9 am–12 pm, 1–6 pm</td></tr><tr style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;"><td style="box-sizing: border-box; font-family: Lato; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0px 8px 0px 0px; vertical-align: top; max-width: 173px;" class="SKNSIb">Tuesday</td><td style="box-sizing: border-box; font-family: Lato; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0px; vertical-align: top;">9 am–12 pm, 1–9 pm</td></tr><tr style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;"><td style="box-sizing: border-box; font-family: Lato; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0px 8px 0px 0px; vertical-align: top; max-width: 173px;" class="SKNSIb">Wednesday<div style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;"></div></td><td style="box-sizing: border-box; font-family: Lato; border-width: 0px 0px 1px; border-style: solid; border-color: rgb(214, 214, 214); overflow-wrap: break-word; border-image: initial; padding: 0px; vertical-align: top;">9 am–12 pm, 1–6 pm<div style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;"><span style="box-sizing: border-box; font-family: arial, sans-serif-light, sans-serif; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; font-weight: normal; color: rgb(176, 96, 0);" class="M4OzPc LSCqpe"></span></div></td></tr><tr style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;"><td style="box-sizing: border-box; font-family: Lato; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0px 8px 0px 0px; vertical-align: top; max-width: 173px;" class="SKNSIb">Thursday<div style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;"></div></td><td style="box-sizing: border-box; font-family: Lato; border: 0px solid rgb(214, 214, 214); overflow-wrap: break-word; padding: 0px; vertical-align: top;">9 am–12 pm, 1–9 pm<div style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word;"><span style="box-sizing: border-box; font-family: arial, sans-serif-light, sans-serif; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; font-weight: normal; color: rgb(176, 96, 0);" class="M4OzPc LSCqpe"></span></div></td></tr></tbody></table>
-    
-*   **Tel:**&nbsp;6795 1008
-    
-*   **Email:**&nbsp;[whfsc@viriya.org.sg](mailto:whfsc@viriya.org.sg)
 
-<br>
-
-**2. [SAGE Counselling Centre - Jurong Point](https://www.sagecc.org.sg/)**
-
-* **Note:** *SAGE CC is a Social Service Agency specialising in gero-counselling for older persons, their family members, and caregivers.*
-
-*   **Location:**&nbsp;646 Jurong West Street 61 #01-142 Singapore 640646
-    
-*   **Opening hours:** 
-<table style="margin-top: 3px; border-collapse: collapse; line-height: 1.58;" class="WgFkxc"><tbody><tr style="font-weight: bold; color: rgb(32, 33, 36);" class="K7Ltle"><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Friday</td><td style="padding: 0px;">8:30 am–5:30 pm</td></tr><tr><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Saturday</td><td style="padding: 0px;">Closed</td></tr><tr><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Sunday</td><td style="padding: 0px;">Closed</td></tr><tr><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Monday</td><td style="padding: 0px;">8:30 am–5:30 pm</td></tr><tr><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Tuesday</td><td style="padding: 0px;">8:30 am–5:30 pm</td></tr><tr><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Wednesday<div></div></td><td style="padding: 0px;">8:30 am–5:30 pm<div><span style="font-family: arial, sans-serif-light, sans-serif; font-weight: normal; color: rgb(176, 96, 0);" class="M4OzPc LSCqpe"></span></div></td></tr><tr><td style="padding: 0px 8px 0px 0px; max-width: 173px;" class="SKNSIb">Thursday<div></div></td><td style="padding: 0px;">8:30 am–5:30 pm<div><span style="font-family: arial, sans-serif-light, sans-serif; font-weight: normal; color: rgb(176, 96, 0);" class="M4OzPc LSCqpe"></span></div></td></tr></tbody></table>
-
-*   **Tel:**&nbsp;6354 1191
-    
-*   **Email:** reception@sagecc.org.sg
+<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> More mental health resources for youths </div>
+<div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
+	<ul>
+		<li>Explore <a href="https://www.healthhub.sg/programmes/186/MindSG/Discover" target="_blank">MindSG </a> for a suite of self-care tools and resources
+		</li><li><a href="https://youthopia.sg/read/six-free-apps-that-will-improve-your-mental-wellness/">6 free apps that will improve your mental wellness</a></li>
+		<li>Chat with mental health professionals on<a href="https://www.imh.com.sg/CHAT/Get-Help/webCHAT/Pages/default.aspx"> CHAT</a></li>
+	</ul>
+</div>
