@@ -10,41 +10,41 @@ description: ""
 		
 </tr><tr>
     <td style="width:30%">
-      <img src="https://www.sportshub.com.sg/sites/default/files/2022-08/HIIT%20%28High%20Intensity%20Interval%20Training%29.png" alt="vhcjc">
+      <img src="https://assets.avenueone.sg/wp-content/uploads/2019/01/best-zumba-class-singapore-zinga-fitness.jpg" alt="zg">
     </td>	
     <td style="width:70%">
-			<b>	HIIT</b>
+			<b>	Zumba Gold - A0879 (Zone C)</b>
    <br><br>
 Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 app</a>. <br>
-			<b> Date &amp; time:</b> Every Mon &amp; Thu 7.30pm - 8.30pm <br>
-			<b> Address:</b> Blk 216 Boon Lay Avenue <br>
-			<b> Contact no: </b> 6564 5171 <br>
+			<b> Date &amp; time:</b> Every Fri, 7.30pm - 8.30pm <br>
+			<b> Address:</b> Blk 262B, Boon Lay Dr  S642262 <br>
+			<b> Contact no: </b> 9070 3251 <br>
 	<br><p></p></td>
 </tr>
 
 <tr>
     <td style="width:30%">
-      <img src="https://safra-resources.azureedge.net/media-library/images/default-source/default-album/kpopx-(main-image).jpg?sfvrsn=73523d4d_0" alt="thkmc">
+      <img src="https://static.thehoneycombers.com/wp-content/uploads/sites/2/2017/12/957694-Taiji-and-Qigong-classes-at-Singapore-Chinese-Cultural-Centre-Photo-Credit-to-Singapore-Chinese-Cultural-Centre-768x512.jpg" alt="taichi">
     </td>	
     <td style="width:70%">
-      			<b>	KpopX Fitness - A3682</b>
+      			<b>	Taichi - A3683 (Zone C)</b>
    <br><br>
 Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 app</a>. <br>
-			<b> Date &amp; time:</b> Every Mon 8am - 9am<br>
-			<b> Address:</b> Boon Lay Zone D Residents' Network (190 Boon Lay Dr, #01-224 Boon Lay Vista, Singapore 640190)<br>
+			<b> Date &amp; time:</b> Every Tue 7.30pm - 8.30pm<br>
+			<b> Address:</b> Blk 262B, Boon Lay Dr, MPH S642262<br>
 			<b> Contact no: </b> 9070 3251 <br>
     <br><p></p></td>
   </tr>
 	
 <tr>
     <td style="width:30%">
-      <img src="https://www.healthhub.sg/sites/assets/Assets/Programs/pa-lit/images/programme-hwe.jpg" alt="Lakeside fmc">
+      <img src="https://wisefitnessacademy.com/wp-content/uploads/2021/05/resistance-bands-for-elderly-.jpg" alt="rsistance">
     </td>	
     <td style="width:70%">
-      			<b>	Kickboxing - A0805</b><p>
+      			<b>Resistance Bands Exercise - A1433 (Zone B)</b><p>
 		Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 app</a>. <br>
-			<b> Date &amp; time:</b> Every Mon 7.30pm - 8.30pm <br>
-			<b> Address:</b> Boon Lay Zone J Residents' Network (625 Jurong West Street 61, #01-161, Singapore 640625)<br>
+			<b> Date &amp; time:</b> Every Wed 9.30am - 10.30am <br>
+			<b> Address:</b> Boon Lay Zone B Residents' Network (682C Jurong West Central 1, Singapore 643682)<br>
 			<b> Contact no: </b> 9070 3251<br>
     <br></p></td>
   </tr></tbody></table><p></p><p></p>
