@@ -39,6 +39,19 @@ description: ""
 			<b> Opening hours: </b> Weekdays 9am - 12pm, 1pm - 6pm. Closed on weekends <br>
 			<b> Address:</b> 646 Jurong West Street 61, #61 Block 646, Singapore 640646 <br>
 			<b> Contact no: </b> 6795 1008 <br>
+			</p></td></tr><tr>
+    <td style="width:30%">
+      <img alt="sage" src="https://www.sagecc.org.sg/static/media/logo-dark.3dd116e1.png">
+    </td>	
+    <td style="width:70%">
+      			<b>	<a target="_blank" href="https://www.sagecc.org.sg/">SAGE Counselling Centre </a></b> (For Older Persons)<br>
+			<img alt="sage" src="https://www.sagecc.org.sg/static/media/SHL.de7bd148.png">
+			<br><b>Seniors Hotline:</b> 1800 555 5555
+		 <p>SAGE Counselling Centre is a non-profit and non-religious Social Service Agency. We strive to address the changing needs of senior citizens in the community, not just for the needy and lonely to achieve better quality of life, but also for the able-bodied and healthy to lead fulfilling lives, engaging in lifelong learning and active ageing.
+			</p><p>
+			<b> Opening hours: </b> Weekdays 9am - 12pm, 1pm - 6pm. Closed on weekends <br>
+			<b> Address:</b> 646 Jurong West Street 61, #61 Block 646, Singapore 640646 <br>
+			<b> Contact no: </b> 6795 1008 <br>
     <br></p></td>
   </tr></tbody></table></p><p></p><p></p>
 	
