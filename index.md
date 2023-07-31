@@ -18,8 +18,8 @@ sections:
             url: /for-children/fitness/
           - title: For Youth (13-21Years Old)
             url: /for-youths/youthfitness/
-          - title: Hero Dropdown Element Title
-            url: ""
+          - title: For Adult (19-49 Years Old)
+            url: /for-adults/fitness/
   - infopic:
       title: Digital Local Connect
       description: A resource library for precinct leaders, volunteers, and
