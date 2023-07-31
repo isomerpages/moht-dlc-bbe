@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Health & Medical.md
-      - Mental Health Services.md
       - Housing & Food Support.md
       - Social Service Centres.md
