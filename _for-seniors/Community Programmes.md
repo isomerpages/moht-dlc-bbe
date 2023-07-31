@@ -3,25 +3,26 @@ title: Community Programmes
 permalink: /for-seniors/community/
 description: ""
 ---
-# Youth Programmes in Boon Lay
+# Activities for Seniors in Boon Lay
 
 <table style="width:100%">
   <tbody><tr>
 		
 </tr><tr>
     <td style="width:30%">
-      <img src="https://lakeside.org.sg/wp-content/uploads/2021/07/TGA.jpeg" alt="vhcjc">
+      <img src="https://assets-prod.ntuchealth.sg/nh/_1200x630_crop_center-center_82_none/Boon-Lay-SAC.jpg?mtime=1634271130" alt="blsc">
     </td>	
     <td style="width:70%">
-			<b>	<a href="https://lakeside.org.sg/our-services/the-grit-project/" target="_blank">The GRIT Project by Lakeside Family Services</a> </b>
-   <br><br>
-The GRIT Project (TGP) is a Children and Youth Centre at Jurong West (Nanyang). It nurtures a caring generation to serve the community and addresses the needs of disadvantaged children and youths aged 5 to 18. Our staff and volunteers instil GRIT values in young people – Grace, Respect, Integrity, and Tenacity – all of which lead to grit!&nbsp;
-
-TGP provides a safe space for self-discovery and empowerment for young people so they can grow to be confident, competent, connected, caring, and of good character. <br>
-			<b> Opening hours:</b> Weekdays 9.30am - 6pm, closed on weekends<br>
-			<b> Address:</b> #01-369 Jurong West Street 93, Block 977, Singapore 640977 <br>
-			<b> Contact no: </b> 9022 6250 <br>
-	<br><p></p></td>
+			<b>	<a href="https://ntuchealth.sg/active-ageing/locations/senior-activity-centre-boon-lay" target="_blank">NTUC Health Senior Activity Centre (Boon Lay)</a> </b>
+<p>
+Explore a variety of active ageing programmes, health screenings and fitness classes to stay active, or volunteer your time and talents to be part of a vibrant community at NTUC Health Active Ageing Hub (Boon Lay).
+</p><p>
+			<b> Opening hours:</b> Mon-Fri 9am - 6pm, Sat 9am-1pm 
+	<br>Closed on Sun<br>
+			<b> Address:</b> 179 Boon Lay Dr, #01-448, Singapore 640179 <br>
+			<b> Contact no: </b> 6590 4368 <br>
+	<b> Whatsapp to enquire:</b> 8163 2640
+	<br></p><p></p></td>
 </tr>
 		
 <tr>
