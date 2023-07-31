@@ -46,17 +46,29 @@ Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyli
 			<b> Date &amp; time:</b> Every Wed 9.30am - 10.30am <br>
 			<b> Address:</b> Boon Lay Zone B Residents' Network (682C Jurong West Central 1, Singapore 643682)<br>
 			<b> Contact no: </b> 9070 3251<br>
+			 <br></p><p></p></td>
+  </tr>
+		<tr>
+    <td style="width:30%">
+      <img src="![fui]()" alt="rsistance">
+    </td>	
+    <td style="width:70%">
+      			<b>Resistance Bands Exercise - A1433 (Zone B)</b><p>
+		Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 app</a>. <br>
+			<b> Date &amp; time:</b> Every Wed 9.30am - 10.30am <br>
+			<b> Address:</b> Boon Lay Zone B Residents' Network (682C Jurong West Central 1, Singapore 643682)<br>
+			<b> Contact no: </b> 9070 3251<br>
     <br></p></td>
   </tr></tbody></table><p></p><p></p>
 	
 	
 
 
-<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> For more youth fitness programmes</div>
+<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> For more Active Ageing fitness programmes</div>
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
 		<li>Download <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 </a>   to browse more free fitness programmes
-		</li><li><a href="https://www.activesgcircle.gov.sg/youthcreates/get-fit?__hstc=107652957.f6029966e31b68e5a4ab94ecc1ce0c1c.1689308382958.1690264910467.1690267300727.3&amp;__hssc=107652957.12.1690267300727&amp;__hsfp=3022105166">Get Fit with YouthCreates!</a></li>
+		</li><li><a href="https://ntuchealth.sg/active-ageing/services/senior-gym">NTUC Health Senior Gyms</a></li>
 		<li><a href="https://www.onepa.gov.sg/courses/sports-fitness">One PA - Sports &amp; Fitness Courses</a></li>
 	</ul>
 </div>
