@@ -27,9 +27,6 @@ description: ""
 </td>
 	</tr>			
 </tbody></table>
-	
-	
-
 
 <div class="row" style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> For more youth activities</div>
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
