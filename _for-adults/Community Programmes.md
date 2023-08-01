@@ -27,8 +27,9 @@ description: ""
 </td>
 	</tr>			
 </tbody></table>
-	<p>
-</p><div class="row" style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;">For more community event updates</div>
+	<p></p>
+	
+<div class="row" style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;">For more community event updates</div>
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
 	<table style="width:100%">
   <tbody><tr>
