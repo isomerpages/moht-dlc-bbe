@@ -18,12 +18,12 @@ description: ""
 <tr>
 		<td><img alt="vhcjc" src="https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiaWhoLWhlYWx0aGNhcmUtYmVyaGFkXC9hY2NvdW50c1wvYzNcLzQwMDA2MjRcL3Byb2plY3RzXC8yMDlcL2Fzc2V0c1wvYTZcLzM3MzgxXC83NDNlMWU4Y2RkMjVkMmJmNWZkZjdhZTM3ODk2MzNlMS0xNjU4Mjk4OTU3LmpwZyJ9:ihh-healthcare-berhad:Vgt4pTXVetFn_VnrNo8CQJ_B1V_Zi2NavGfleEy3qas?width={width}"></td>
 		<td><img alt="vhcjc" src="https://uploads.dailyvanity.sg/wp-content/uploads/2020/03/makeup-classes-singapore-fb-761x395.jpg"></td>
-		<td><img alt="vhcjc" src="https://i.ytimg.com/vi/UduAQzV73Bw/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEcgSyhlMA8=&amp;rs=AOn4CLBKnh-ki-ppzGGMTINubrQhjRX6xQ"></td>
+		<td><img alt="vhcjc" src="https://www.indianheritage.gov.sg/en/-/media/ihc2017/odissi-2-(1).jpeg?as=1&amp;w=700"></td>
 	</tr>
 <tr>
 		<td><a href="https://www.onepa.gov.sg/events/nhgd-mammobus-deployment-at-boon-lay-cc-11-november-2023-57889406">NHGD Mammobus Deployment at Boon Lay CC</a><br>Date &amp; Time: 11 Nov 2023 <br>9am - 5pm<br>Register on OnePA<br></td> 
-		<td><div style="position:relative;left:34px"><a href="https://www.onepa.gov.sg/courses/basic-day-night-make-up-c027029570">Basic Day &amp; Night Make Up</a><br>Date &amp; Time: 30 Sep 2023 <br>10am - 12pm<br>Fees: $60 - $70<br>Register on OnePA<br></div></td>
-		<td><a href="/our-programmes/community-sports/"> Community  Sports</a><br>Date &amp; Time: 20 Aug 2023 <br>11am - 1pm<br>Register on OnePA<br>
+		<td><div style="position:relative;left:34px"><a href="https://www.onepa.gov.sg/courses/basic-day-night-make-up-c027029570">Basic Day &amp; Night Make Up</a><br>Date &amp; Time: Every Sat 30 Sep - 07 Oct 2023 <br>10am - 12pm<br>Fees: $60 - $70<br>Register on OnePA<br></div></td>
+		<td><a href="https://www.onepa.gov.sg/courses/indian-cinematic-dance-c027029264"> Indian Cinematic Dance</a><br>Date &amp; Time: Every Tue 05 Spe -26 Sep 2023 <br>5.30pm - 7pm <br>Fees: $65 - $75<br>Register on OnePA<br>
 	</td></tr>
 <tr>
 		<td><img style="height:200px;width:300px" src="/images/Programmes/main-communityintegration.jpg"></td>
