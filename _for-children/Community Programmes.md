@@ -22,10 +22,8 @@ https://www.3pumpkins.co/tak-takut-kids-club
 			<b>	<a href="https://tasekjurong.org/tasekkidstart/" target="_blank">KidSTART @ Tasek Jurong</a> </b>
    <br>
 			
-Program KidSTART provides support for the child’s development, coordinate and&nbsp;strengthen holistic services for families where needed, and monitor the&nbsp;developmental progress of children from birth onwards.&nbsp;
-
-<h5>Eligibility</h5>
-			
+Program KidSTART provides support for the child’s development, coordinate and&nbsp;strengthen holistic services for families where needed, and monitor the&nbsp;developmental progress of children from birth onwards.<br><br>
+<b>Eligibility</b>
 1. Singapore citizen children aged up to 6 years old
 2. Gross monthly household income of $2,500 and below or per capita income of $650 and below
 3. Staying in regions served by KidSTART (Kreta Ayer/Bukit Merah, Taman Jurong/Boon Lay, Bedok/Geylang Serai, Woodlands/Sembawang, Ang Mo Kio/Yishun, Choa Chu Kang, Bukit Panjang and Bukit Batok)
