@@ -2,6 +2,7 @@ collections:
   service-locator:
     output: true
     order:
+      - Disability Support.md
       - Health & Medical.md
       - Housing & Food Support.md
       - Social Service Centres.md
