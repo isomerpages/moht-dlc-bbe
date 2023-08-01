@@ -5,7 +5,7 @@ description: ""
 ---
 ## Community Programmes in Boon Lay
 
-<table>
+<p></p><p></p><table>
 	<tbody><tr>
 		<td><img style="height:200px;width:300px" alt="vhcjc" src="https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/11/ads-sembawangtrail-11062022.jpg?VersionId=1TAjafSl8Yc_6WIOIitAcKsCZuO1k91_"></td>
 		<td><img style="height:200px;width:300px" alt="vhcjc" src="https://blog.hubspot.com/hs-fs/hubfs/sustainable%20marketing.jpg?width=595&amp;height=400&amp;name=sustainable%20marketing.jpg"></td>
@@ -27,7 +27,7 @@ description: ""
 </td>
 	</tr>			
 </tbody></table>
-	<p></p>
+
 	
 <div class="row" style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;">For more community event updates</div>
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
