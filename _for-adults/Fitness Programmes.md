@@ -50,17 +50,17 @@ Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyli
   </tr>
 		<tr>
     <td style="width:30%">
-      <img src="https://assets-prod.ntuchealth.sg/nh/_1200x630_crop_center-center_82_none/IMG_1681-3.jpg?mtime=1661392967" alt="senior gym">
+      <img src="https://scontent.fsin7-1.fna.fbcdn.net/v/t39.30808-6/300968601_768189384580709_3923904670367072526_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=19026a&amp;_nc_ohc=ErrcWSVrydoAX8UNFt_&amp;_nc_ht=scontent.fsin7-1.fna&amp;oh=00_AfDu8iM7pE0deThVgiX2q9UyUwUBKfA89LIg5U_64B_BzQ&amp;oe=64CE5452" alt="jwasgc">
     </td>	
     <td style="width:70%">
-      			<b>Senior Gym | Fitness Classes @ NTUC Health Active Ageing Centre (Care) (Jurong Central Plaza)</b><p>
-		Located island-wide, our gyms offer a selection of strength-focused programmes led by qualified and experienced trainers. From Circuit Training, Gym Tonic to Functional Strength Training, our trainers will customise the intensity of the exercise to suit your abilities and ensure your safety and comfort.<br><br>Enquire for slots at <a href="https://ntuchealth.sg/active-ageing/services/senior-gym" target="_blank">Active Ageing - Senior Gym</a>. <br>
-			<b> Opening hours:</b> Mon (9am-5pm), Tue (9am-1pm), Wed (9am-4pm), Thu (9am-5pm). <br>Closed on Fri, Sat &amp; Sun<br>
-			<b> Address:</b> Blk 493 Jurong West Street 41, #02-01, Singapore 640493<br>
-			<b> Contact no: </b> 9028 2440<br>
+      			<b>Jurong West ActiveSG Sports Centre</b><p>
+		Explore programmes and book your slot on the ActiveSG app. </p><p>
+			<b> Opening hours:</b> Mon - Sun (7am-10pm)<br>
+			<b> Address:</b> 20 Jurong West Street 93, Singapore 648965<br>
+			<b> Contact no: </b> 6515 5331<br>
     <br></p></td>
   </tr></tbody></table><p></p><p></p>
-	
+	<h3> Useful Apps</h3>
 	
 
 
