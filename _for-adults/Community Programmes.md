@@ -13,7 +13,7 @@ description: ""
 	</tr>
 	<tr>
 		<td><a href="https://www.onepa.gov.sg/events/boon-lay-aac-briskwalk-at-admiralty-park-wellness-70817877">Boon Lay AAC - Briskwalk at Admiralty Park (Wellness)</a><br><br></td>
-		<td><div style="position:relative;left:34px;"><a href="/our-programmes/community-arts">Community Arts</a><br>Learn&nbsp;more&nbsp;about&nbsp;how&nbsp;art<br>&nbsp;inspires&nbsp;and&nbsp; brings<br>&nbsp;different&nbsp;communities together.<br></div></td>
+		<td><div style="position:relative;left:34px;"><a href="https://www.onepa.gov.sg/events/boon-lay-green-market-on-27th-august-2023-68845310">Boon Lay Green Market on 27th August 2023</a><br><br><br></div></td>
 		<td><a href="/our-programmes/community-dialogue"> Community  Dialogue</a><br>PA acts as a vital link between the Government and the community through <br>&nbsp;community dialogues.<br>	</td></tr>
 <tr>
 		<td><img style="height:200px;width:300px" src="/images/Programmes/main-racialharmony.jpg"></td>
