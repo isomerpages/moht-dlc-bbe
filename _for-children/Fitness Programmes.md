@@ -8,13 +8,13 @@ description: ""
 <table>
 	<tbody><tr>
 		<td><img style="height:200px;width:300px" alt="vhcjc" src="https://www.littledayout.com/wp-content/uploads/01-salt-and-light-archery.jpg"></td>
-		<td><img style="height:200px;width:300px" alt="vhcjc" src="https://blog.hubspot.com/hs-fs/hubfs/sustainable%20marketing.jpg?width=595&amp;height=400&amp;name=sustainable%20marketing.jpg"></td>
-		<td><img style="height:200px;width:300px" alt="vhcjc" src="https://i.ytimg.com/vi/UduAQzV73Bw/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEcgSyhlMA8=&amp;rs=AOn4CLBKnh-ki-ppzGGMTINubrQhjRX6xQ"></td>
+		<td><img style="height:200px;width:300px" alt="vhcjc" src="https://s3-ap-southeast-1.amazonaws.com/mmsproduction/program/s/1715838409648b2a0eeff8a.jpg"></td>
+		<td><img style="height:200px;width:300px" alt="vhcjc" src="https://s3-ap-southeast-1.amazonaws.com/mmsproduction/program/s/1785485762648b295978693.jpg"></td>
 	</tr>
 	<tr>
-		<td><a href="https://www.onepa.gov.sg/events/boon-lay-aac-briskwalk-at-admiralty-park-wellness-70817877">Boon Lay AAC - Briskwalk at Admiralty Park (Wellness)</a><br>Date &amp; Time: 29 Oct 2023 <br>7am - 2pm<br>Register on OnePA<br></td>
-		<td><div style="position:relative;left:34px;"><a href="https://www.onepa.gov.sg/events/boon-lay-green-market-on-27th-august-2023-68845310">Boon Lay Green Market on 27th August 2023</a><br>Date &amp; Time: 27 Aug 2023 <br>10.30am - 2.30pm<br>Register on OnePA<br><br></div></td>
-		<td><a href="https://www.onepa.gov.sg/events/english-mandarin-will-and-lpa-talk-mandarin-13301263"> English &amp; Mandarin Will and LPA talk (Mandarin)</a><br>Date &amp; Time: 20 Aug 2023 <br>11am - 1pm<br>Register on OnePA<br>	</td></tr>
+		<td><a href="https://www.healthhub.sg/programmes/197/healthyliving">Archery Battleground</a><br>Date &amp; Time: Every Sat <br>2pm - 3pm<br>Book on <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 app</a><br></td>
+		<td><div style="position:relative;left:34px;"><a href="https://members.myactivesg.com/programmes/view/program/51399/venue/1043">ActiveSG Hockey Academy Season 3 2023 (U12 Session 1)</a><br>Date &amp; Time: View time slots on ActiveSG <br>For 5-12 yrs old<br>Register on ActiveSG<br>Fees applicable<br></div></td>
+		<td><a href="https://members.myactivesg.com/programmes/view/program/51401/venue/1043">ActiveSG Hockey Academy Season 3 2023 (U12 - Session 2)</a><br>Date &amp; Time: View time slots on ActiveSG <br>For 5-12 yrs old<br>Register on ActiveSG<br>Fees applicable<br>	</td></tr>
 <tr>
 		<td><img style="height:200px;width:400px" alt="vhcjc" src="https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiaWhoLWhlYWx0aGNhcmUtYmVyaGFkXC9hY2NvdW50c1wvYzNcLzQwMDA2MjRcL3Byb2plY3RzXC8yMDlcL2Fzc2V0c1wvYTZcLzM3MzgxXC83NDNlMWU4Y2RkMjVkMmJmNWZkZjdhZTM3ODk2MzNlMS0xNjU4Mjk4OTU3LmpwZyJ9:ihh-healthcare-berhad:Vgt4pTXVetFn_VnrNo8CQJ_B1V_Zi2NavGfleEy3qas?width={width}"></td>
 		<td><img alt="vhcjc" src="https://uploads.dailyvanity.sg/wp-content/uploads/2020/03/makeup-classes-singapore-fb-761x395.jpg"></td>
