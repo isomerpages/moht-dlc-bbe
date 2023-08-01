@@ -24,31 +24,7 @@ description: ""
 		<td><a href="https://www.onepa.gov.sg/events/nhgd-mammobus-deployment-at-boon-lay-cc-11-november-2023-57889406">NHGD Mammobus Deployment at Boon Lay CC</a><br>Date &amp; Time: 11 Nov 2023 <br>9am - 5pm<br>Register on OnePA<br></td> 
 		<td><div style="position:relative;left:34px"><a href="https://www.onepa.gov.sg/courses/basic-day-night-make-up-c027029570">Basic Day &amp; Night Make Up</a><br>Date &amp; Time: Every Sat 30 Sep - 07 Oct 2023 <br>10am - 12pm<br>Fees: $60 - $70<br>Register on OnePA<br></div></td>
 		<td><a href="https://www.onepa.gov.sg/courses/indian-cinematic-dance-c027029264"> Indian Cinematic Dance</a><br>Date &amp; Time: Every Tue 05 Spe -26 Sep 2023 <br>5.30pm - 7pm <br>Fees: $65 - $75<br>Register on OnePA<br>
-	</td></tr>
-<tr>
-		<td><img style="height:200px;width:300px" src="/images/Programmes/main-communityintegration.jpg"></td>
-		<td><img style="height:200px;width:220px" src="/images/Programmes/main-cccourses_edited.jpg"></td>
-		<td><img style="height:200px;width:300px" src="/images/Programmes/main-womensprogrammes_edited.jpg"></td>
-	</tr>
-<tr>
-		<td><a href="/our-programmes/community-integration/">Community Integration</a><br>New to Singapore? Get<br> yourself integrated with your<br> new environment with our<br> various&nbsp;community<br> programmes<br></td>
-		<td><div style="position:relative;left:34px;"><a href="/our-programmes/cc-courses/courses/">CC Courses</a><br>Hone your skills or acquire new ones.<br> From cooking to dance and sports,<br>&nbsp;there  is a course  for everyone.<br></div></td>
-		<td><a href="/our-programmes/womens-programmes"> Women's Programmes</a><br>Learn how PA encourages women to lead active lives<br> and contribute to  <br>the&nbsp;community.<br>
-			</td></tr>
-	<tr>
-		<td><img style="height:200px;width:300px" src="/images/Programmes/main-waterventure.jpg"></td>
-		<td><img style="height:200px;width:220px" src="/images/Programmes/main-emergencypreparedness_edited.jpg"></td>
-		<td><img style="height:200px;width:300px" src="/images/Programmes/main-passioncard.jpg"></td>
-	</tr>
-	<tr>
-		<td><a href="/our-programmes/passion-wave/details/">Passion Wave</a><br>PA PAssion WaVe's outlets <br>offer a range of land and <br>water sports programmes<br> such as&nbsp;abseiling and power boating<br></td>
-		<td><div style="position:relative;left:34px;"><a href="/our-programmes/emergency-preparedness/">Emergency Preparedness</a><br>PA's Emergency Preparedness<br> Groups and Community Emergency Response&nbsp;Teams shows you how to<br> react during emergencies.<br></div></td>
-		<td><a href="/our-programmes/passion-card"> Passion Card</a><br>The PAssion Card offers exclusive privileges to its  members for PA's       exciting <br> range of courses and       activities.<br>
-			</td></tr>
-	<tr>
-		<td><img style="height:200px;width:300px" src="/images/Programmes/main-youth_edited.jpg"></td></tr>
-		<tr>
-		<td><a href="/our-programmes/youth">Youth</a><br>Channel your youthful<br> energy and help shape your <br>dreams for a happy and <br>vibrant&nbsp;Singapore through<br> our programmes<br></td>
+</td>
 	</tr>			
 </tbody></table>
 	
