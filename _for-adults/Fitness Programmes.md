@@ -60,16 +60,57 @@ Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyli
 			<b> Contact no: </b> 6515 5331<br>
     <br></p></td>
   </tr></tbody></table><p></p><p></p>
-	<h3> Useful Apps</h3>
-	
+	<h3> Useful Apps &amp; Sites</h3>
 
 
-<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> For more Active Ageing fitness programmes</div>
-<div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
-	<ul>
-		<li>Download <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 </a>   to browse more free fitness programmes
-		</li><li><a href="https://www.activesgcircle.gov.sg/activehealth/seniors/programmes">ActiveSG - Programmes for Seniors</a></li>
-		<li><a href="https://www.onepa.gov.sg/courses/sports-fitness">One PA - Sports &amp; Fitness Courses</a></li>
-		<li><a href="https://www.healthhub.sg/live-healthy/883/never-too-late-to-start">Never Too Late for Elderly to Start Exercising</a></li>
-	</ul>
-</div>
+<table style="width:100%">
+  <tbody><tr>
+    <td style="width:30%">
+      <img src="https://s3-ap-southeast-1.amazonaws.com/mmsproduction/program/s/ActiveSG.jpg" alt="Active Wallet">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.myactivesg.com/About-ActiveSG/myActiveSG-App" target="_blank">ActiveSG</a>
+   <br>
+	Download the ActiveSG app to find fitness classes and sports facilities near you. <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/activesg/id827595244" target="_blanket"><img alt="Apple App Store Link" src="https://d33wubrfki0l68.cloudfront.net/769d2c164a70c4400654f300f4f36f94ce152f0c/c170e/images/community/appstoreicon/apple-store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.iapps.ssc" target="_blanket"><img alt="Google Play Store Link" src="https://d33wubrfki0l68.cloudfront.net/d4fb6ada6a348985c0e527742be609958e91db35/f4002/images/community/appstoreicon/google-play.png"></a>
+          </div>
+      </div>  
+    <br></td>
+  </tr>
+		
+<tr>
+		 <td style="width:30%">
+      <img src="https://play-lh.googleusercontent.com/PpfJTn4mU_d_r3zFGeF1hOs22uYKHry6QFLC9PqefEpfVcQyH17EfeBA86-iPTC-U-o" alt="Healthy 365">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://hpb.gov.sg/healthy-living/healthy-365" target="_blank">Healthy 365</a>
+   <br>
+	Download the app to join free fitness classes in your area and take part in the National Steps Challenge, as well as monitor your sleep and food intake.<br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blanket"><img alt="Apple App Store Link" src="https://d33wubrfki0l68.cloudfront.net/769d2c164a70c4400654f300f4f36f94ce152f0c/c170e/images/community/appstoreicon/apple-store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365" target="_blanket"><img alt="Google Play Store Link" src="https://d33wubrfki0l68.cloudfront.net/d4fb6ada6a348985c0e527742be609958e91db35/f4002/images/community/appstoreicon/google-play.png"></a>
+          </div>
+      </div>  
+    <br></td>
+  </tr>
+		
+		
+<tr>
+    <td style="width:30%">
+      <img src="https://www.pa.gov.sg/images/Our%20Network/Community%20Club/onepalogo.jpg" alt="Onepa">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.onepa.gov.sg/cc/boon-lay-cc" target="_blank">Boon Lay CC</a>
+   <br>
+	Explore the wide range of fitness courses at Boon Lay CC. Be it Yoga or line dancing, there will be something for you to enjoy and break a sweat at the same time! <br>
+	<br></td>
+</tr>
+</tbody></table>
+<br>
+
