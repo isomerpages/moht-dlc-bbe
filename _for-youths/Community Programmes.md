@@ -57,11 +57,10 @@ Have some free time? Volunteer for your local community! <br> Keep up to date wi
 	
 
 
-<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> For more youth fitness programmes</div>
+<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> For more youth activities</div>
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
-		<li>Download <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 </a>   to browse more free fitness programmes
-		</li><li><a href="https://www.activesgcircle.gov.sg/youthcreates/get-fit?__hstc=107652957.f6029966e31b68e5a4ab94ecc1ce0c1c.1689308382958.1690264910467.1690267300727.3&amp;__hssc=107652957.12.1690267300727&amp;__hsfp=3022105166">Get Fit with YouthCreates!</a></li>
-		<li><a href="https://www.onepa.gov.sg/courses/sports-fitness">One PA - Sports &amp; Fitness Courses</a></li>
+		<li><a href="https://www.instagram.com/boonlayyouths/?hl=en">Instagram page: Boon Lay Youth Network</a></li>
+		<li><a href="https://www.ncss.gov.sg/social-services/children-and-youths">NCSS - Children &amp; Youth Programmes</a></li>
 	</ul>
 </div>
