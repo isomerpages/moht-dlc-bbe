@@ -27,11 +27,20 @@ description: ""
 </td>
 	</tr>			
 </tbody></table>
-
-<div class="row" style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> For more youth activities</div>
+	
+<div class="row" style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;">For more community event updates</div>
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
-	<ul>
-		<li><a href="https://www.instagram.com/boonlayyouths/?hl=en">Instagram page: Boon Lay Youth Network</a></li>
-		<li><a href="https://www.ncss.gov.sg/social-services/children-and-youths">NCSS - Children &amp; Youth Programmes</a></li>
-	</ul>
+	<table style="width:100%">
+  <tbody><tr>
+		</tr><tr>
+		<td style="width:30%">
+      <img src="https://scontent-xsp1-2.xx.fbcdn.net/v/t1.6435-9/155047777_10159039075818560_1813083149321125721_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=T62IpYX-QUMAX_YFLOT&amp;_nc_ht=scontent-xsp1-2.xx&amp;oh=00_AfDl9mruhy1myzCQ1Jr1bVZR37B6N0i5qV0ZgASQmH4Bog&amp;oe=64CA0FD0" alt="Telegram bot">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://t.me/oneboonlay" target="_blank">Join  Oneboonlay on Telegram</a>
+   <br>
+	Follow, Connect, and Explore with Boon Lay's main community channel!<br> 
+	<a href="https://www.facebook.com/OneBoonLay/" target="_blank">Facebook</a> | 	<a href="https://www.instagram.com/oneboonlay/?hl=en" target="_blank">Instagram</a><br>🌟🏢📲<p></p>
+    <br><p></p></td>
+  </tr></tbody></table>
 </div>
