@@ -27,6 +27,13 @@ Registration Closing Date: 04 Aug 2023<br>Register on OnePA<br>Fees applicable<b
 <tr>
 	</tr>			
 </tbody></table><p></p>
+<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> For more activities in Boon Lay</div>
+<div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
+	<ul>
+		<li><a href="https://www.onepa.gov.sg/cc/boon-lay-cc">Boon Lay CC - Events &amp; Courses</a></li>
+		<li><a href="https://www.fortunecredit.com.sg/boon-lay/places-to-take-the-kids/">Staying in Boon Lay? Places To Take the Kids &amp; Kids at Heart</a></li>
+	</ul>
+</div>
 <h3>Support Programmes in Boon Lay</h3>
 
 <table style="width:100%">
