@@ -9,12 +9,12 @@ description: ""
 	<tbody><tr>
 		<td><img style="height:200px;width:300px" alt="vhcjc" src="https://www.littledayout.com/wp-content/uploads/01-salt-and-light-archery.jpg"></td>
 		<td><img style="height:200px;width:300px" alt="vhcjc" src="https://s3-ap-southeast-1.amazonaws.com/mmsproduction/program/s/1715838409648b2a0eeff8a.jpg"></td>
-		<td><img style="height:200px;width:300px" alt="vhcjc" src="https://s3-ap-southeast-1.amazonaws.com/mmsproduction/program/s/1785485762648b295978693.jpg"></td>
+		<td><img style="height:200px;width:300px" alt="vhcjc" src="https://www.activesgcircle.gov.sg/hs-fs/hubfs/ActiveSG%20Circle%202023Theme/images/ActiveSG%20Academies%20and%20Clubs%20Logo%20(Solid%20Colour)%5B8647%5D.png?width=2000&amp;name=ActiveSG%20Academies%20and%20Clubs%20Logo%20(Solid%20Colour)%5B8647%5D.png"></td>
 	</tr>
 	<tr>
 		<td><a href="https://www.healthhub.sg/programmes/197/healthyliving">Archery Battleground</a><br>Date &amp; Time: Every Sat <br>2pm - 3pm<br>Book on <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Healthy365 app</a><br></td>
 		<td><a href="https://members.myactivesg.com/programmes/view/program/51399/venue/1043">ActiveSG Hockey Academy Season 3 2023 (U12 Session 1)</a><br>Date &amp; Time: View time slots on ActiveSG <br>For 5-12 yrs old<br>Register on ActiveSG<br>Fees applicable<br></td>
-		<td><a href="https://members.myactivesg.com/programmes/view/program/51401/venue/1043">ActiveSG Hockey Academy Season 3 2023 (U12 - Session 2)</a><br>Date &amp; Time: View time slots on ActiveSG <br>For 5-12 yrs old<br>Register on ActiveSG<br>Fees applicable<br>	</td></tr>
+		<td><a href="https://members.myactivesg.com/programmes/view/program/51401/venue/1043">ActiveSG Academies &amp; Clubs</a><br>Sports programmes to help develop your child’s character through fitness. <br>View <a href="https://www.activesgcircle.gov.sg/academies-clubs">site</a> for availability in Boon Lay<br>Fees applicable<br>	</td></tr>
 <tr>
 	</tr>			
 </tbody></table><p></p>
