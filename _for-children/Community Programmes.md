@@ -25,9 +25,8 @@ Registration Closing Date: 04 Aug 2023<br>Register on OnePA<br>Fees applicable<b
 </tbody></table><p></p>
 
 <h3>Support Programmes in Boon Lay</h3>
-<br><p></p><table style="width:100%">
+<p></p><table style="width:100%">
   <tbody><tr>
-		
 </tr><tr>
     <td style="width:30%">
       <img src="https://tasekjurong.org/wp-content/uploads/2021/09/KidStart-Programme-Illustrations_Family-768x349.png" alt="vhcjc">
