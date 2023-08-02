@@ -2,6 +2,7 @@ collections:
   for-youths:
     output: true
     order:
+      - Programmes & Services for Youths.md
       - Fitness Programmes.md
       - Community Programmes.md
       - Mental Health For Youths.md
