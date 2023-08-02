@@ -22,7 +22,7 @@ description: ""
 	</tr>
 <tr>
 		<td><a href="https://www.onepa.gov.sg/events/nhgd-mammobus-deployment-at-boon-lay-cc-11-november-2023-57889406">NHGD Mammobus Deployment at Boon Lay CC</a><br>Date &amp; Time: 11 Nov 2023 <br>9am - 5pm<br>Register on OnePA<br></td> 
-		<td><div style="position:relative;left:34px"><a href="https://www.onepa.gov.sg/courses/basic-day-night-make-up-c027029570">Basic Day &amp; Night Make Up</a><br>Date &amp; Time: Every Sat 30 Sep - 07 Oct 2023 <br>10am - 12pm<br>Fees: $60 - $70<br>Register on OnePA<br></div></td>
+		<td><a href="https://www.onepa.gov.sg/courses/basic-day-night-make-up-c027029570">Basic Day &amp; Night Make Up</a><br>Date &amp; Time: Every Sat 30 Sep - 07 Oct 2023 <br>10am - 12pm<br>Fees: $60 - $70<br>Register on OnePA<br></td>
 		<td><a href="https://www.onepa.gov.sg/courses/indian-cinematic-dance-c027029264"> Indian Cinematic Dance</a><br>Date &amp; Time: Every Tue 05 Spe -26 Sep 2023 <br>5.30pm - 7pm <br>Fees: $65 - $75<br>Register on OnePA<br>
 </td>
 	</tr>			
