@@ -41,7 +41,7 @@ description: ""
       	<a href="https://t.me/oneboonlay" target="_blank">Join  Oneboonlay on Telegram</a>
    <br>
 	Follow, Connect, and Explore with Boon Lay's main community channel!<br> 
-	<a href="https://www.facebook.com/OneBoonLay/" target="_blank">Facebook</a> | 	<a href="https://www.instagram.com/oneboonlay/?hl=en" target="_blank">Instagram</a><br>🌟🏢📲<p></p>
+	<a href="https://www.facebook.com/OneBoonLay/" target="_blank">Facebook</a> | 	<a href="https://www.instagram.com/oneboonlay/?hl=en" target="_blank">Instagram</a><br>🌟🏢📲
     <br><p></p></td>
   </tr></tbody></table>
 </div>
