@@ -13,7 +13,7 @@ description: ""
 	</tr>
 	<tr>
 		<td><a href="https://www.onepa.gov.sg/events/boon-lay-aac-briskwalk-at-admiralty-park-wellness-70817877">Boon Lay AAC - Briskwalk at Admiralty Park (Wellness)</a><br>Date &amp; Time: 29 Oct 2023 <br>7am - 2pm<br>Register on OnePA<br></td>
-		<td><div style="position:relative;left:34px;"><a href="https://www.onepa.gov.sg/events/boon-lay-green-market-on-27th-august-2023-68845310">Boon Lay Green Market on 27th August 2023</a><br>Date &amp; Time: 27 Aug 2023 <br>10.30am - 2.30pm<br>Register on OnePA<br><br></div></td>
+		<td><a href="https://www.onepa.gov.sg/events/boon-lay-green-market-on-27th-august-2023-68845310">Boon Lay Green Market on 27th August 2023</a><br>Date &amp; Time: 27 Aug 2023 <br>10.30am - 2.30pm<br>Register on OnePA<br><br></td>
 		<td><a href="https://www.onepa.gov.sg/events/english-mandarin-will-and-lpa-talk-mandarin-13301263"> English &amp; Mandarin Will and LPA talk (Mandarin)</a><br>Date &amp; Time: 20 Aug 2023 <br>11am - 1pm<br>Register on OnePA<br>	</td></tr>
 <tr>
 		<td><img style="height:200px;width:300px" alt="vhcjc" src="https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiaWhoLWhlYWx0aGNhcmUtYmVyaGFkXC9hY2NvdW50c1wvYzNcLzQwMDA2MjRcL3Byb2plY3RzXC8yMDlcL2Fzc2V0c1wvYTZcLzM3MzgxXC83NDNlMWU4Y2RkMjVkMmJmNWZkZjdhZTM3ODk2MzNlMS0xNjU4Mjk4OTU3LmpwZyJ9:ihh-healthcare-berhad:Vgt4pTXVetFn_VnrNo8CQJ_B1V_Zi2NavGfleEy3qas?width={width}"></td>
