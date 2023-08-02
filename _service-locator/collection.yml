@@ -2,6 +2,7 @@ collections:
   service-locator:
     output: true
     order:
+      - Support Schemes (Monetary Assistance).md
       - Disability Support.md
       - Health & Medical.md
       - Housing & Food Support.md
