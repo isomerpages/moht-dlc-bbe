@@ -3,10 +3,9 @@ title: Mental Health For Children
 permalink: /for-children/mhforchildren/
 description: ""
 ---
-<img src="https://img.freepik.com/premium-vector/children-s-mental-health-concept-girls-suffering-happiness_99715-213.jpg?w=996" alt="cmh">
-<p>
+
 	
-<br></p><p></p><table style="width:100%">
+<br><p></p><p></p><table style="width:100%">
   <tbody><tr>
 		
 </tr><tr>
