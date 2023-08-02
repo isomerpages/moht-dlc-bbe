@@ -44,11 +44,11 @@ Online chat is open from Mon - Thurs 2.30pm - 7.00pm
 	
 
 
-<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> More mental health resources for youths </div>
+<div style="font-size:20px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> More mental health resources for young children </div>
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
-		<li>Explore <a href="https://www.healthhub.sg/programmes/186/MindSG/Discover" target="_blank">MindSG </a> for a suite of self-care tools and resources
-		</li><li><a href="https://youthopia.sg/read/six-free-apps-that-will-improve-your-mental-wellness/">6 free apps that will improve your mental wellness</a></li>
-		<li>Chat with mental health professionals on<a href="https://www.imh.com.sg/CHAT/Get-Help/webCHAT/Pages/default.aspx"> CHAT</a></li>
+		<li>Visit <a href="https://bullyfree.sg/" target="_blank">Bullyfree.sg</a> for support for against bullying situations
+		</li><li><a href="https://www.childrensociety.org.sg/services/children-and-youth-services">Children's Society Singapore - Children and Youth Services</a></li>
+		<li><a href="https://www.healthhub.sg/programmes/183/parent-hub"> Parent Hub - HealthHub</a></li>
 	</ul>
 </div>
