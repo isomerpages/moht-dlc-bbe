@@ -49,11 +49,11 @@ Registration Closing Date: 04 Aug 2023<br>Register on OnePA<br>Fees applicable<b
 			
 Program KidSTART provides support for the child’s development, coordinate and&nbsp;strengthen holistic services for families where needed, and monitor the&nbsp;developmental progress of children from birth onwards.<br><br>
 <b>Eligibility</b>
-<ol>  
+<small><ol>  
 &nbsp;&nbsp;<li> Singapore citizen children aged up to 6 years old</li>  
 &nbsp;&nbsp;<li>Gross monthly household income of $2,500 and below or per capita income of $650 and below</li>  
 &nbsp;&nbsp;<li>Staying in regions served by KidSTART (Kreta Ayer/Bukit Merah, Taman Jurong/Boon Lay, Bedok/Geylang Serai, Woodlands/Sembawang, Ang Mo Kio/Yishun, Choa Chu Kang, Bukit Panjang and Bukit Batok)</li>  
-</ol>
+			</ol></small>
 
 
 <br>
