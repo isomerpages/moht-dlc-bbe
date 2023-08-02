@@ -58,7 +58,6 @@ Program KidSTART provides support for the child’s development, coordinate and&
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
 		<li><a href="https://www.onepa.gov.sg/cc/boon-lay-cc">Boon Lay CC - Events &amp; Courses</a></li>
-		<li><a href="https://www.fortunecredit.com.sg/boon-lay/places-to-take-the-kids/">Staying in Boon Lay? Places To Take the Kids &amp; Kids at Heart</a></li>
 		<li><a href="https://www.ncss.gov.sg/social-services/children-and-youths">NCSS - Children &amp; Youth Programmes</a></li>
 	</ul>
 		<table style="width:100%">
