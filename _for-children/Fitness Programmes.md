@@ -16,7 +16,6 @@ description: ""
 		<td><div style="position:relative;left:34px;"><a href="https://members.myactivesg.com/programmes/view/program/51399/venue/1043">ActiveSG Hockey Academy Season 3 2023 (U12 Session 1)</a><br>Date &amp; Time: View time slots on ActiveSG <br>For 5-12 yrs old<br>Register on ActiveSG<br>Fees applicable<br></div></td>
 		<td><a href="https://members.myactivesg.com/programmes/view/program/51401/venue/1043">ActiveSG Hockey Academy Season 3 2023 (U12 - Session 2)</a><br>Date &amp; Time: View time slots on ActiveSG <br>For 5-12 yrs old<br>Register on ActiveSG<br>Fees applicable<br>	</td></tr>
 <tr>
-
 	</tr>			
 </tbody></table><p></p>
 	
