@@ -6,24 +6,24 @@ description: ""
 <img src="https://img.freepik.com/premium-vector/children-s-mental-health-concept-girls-suffering-happiness_99715-213.jpg?w=996" alt="cmh">
 <p>
 	
-<br><p></p><table style="width:100%">
+<br></p><p></p><table style="width:100%">
   <tbody><tr>
 		
 </tr><tr>
     <td style="width:30%">
-      <img src="https://www.tinklefriend.sg/resources/front/template/tinklefriend/images/logo-tinkle-friend.png" alt="tinklefriend">
+      <img src="https://www.tinklefriend.sg/resources/front/template/tinklefriend/images/home-img6.png" alt="tinklefriend">
     </td>	
     <td style="width:70%">
-			<b>	<a href="https://www.mindline.sg/youth/home" target="_blank">Youth Mindline </a></b>
-   <br>
-			<b>Feeling stuck? <br> Visit Mindline.sg to find support and resources curated for youth by youth. </b><p>
-			  Engage in Let's Talk forums, a secure place to express your emotions and offer peer support. Experience instant relief from intense negative emotions and stress through our rescue sessions when you're having a tough day.
-	<br></p><p></p></td>
-		 
-  </tr></tbody></table></p><p></p><p></p>
+			<b>	<a href="https://www.tinklefriend.sg/index" target="_blank">Tinkle Friend </a></b>
+   <p>
+			Provides support, advice, and information to lonely and distressed primary-school-aged children 7 to 12 years old, especially in situations when their parents or main caregivers are unavailable.</p><p>
+			  	</p><div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BIovgwYQSPI" height="315" width="560"></iframe>
+			</div><br>Helpline <b>(1800-2744-788)</b> is open from Mon - Fri 2.30pm - 5pm<br><br>
+Online chat is open from Mon - Thurs 2.30pm - 7.00pm
+	<br><p></p><p></p></td>
+  </tr></tbody></table><p></p><p></p><p></p>
 
-
-	
 <table style="width:100%">
   <tbody><tr>
 </tr>
