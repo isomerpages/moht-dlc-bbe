@@ -3,7 +3,7 @@ title: Fitness Programmes
 permalink: /for-children/fitness/
 description: ""
 ---
-## Suitable for Young Children
+## Ongoing fitness programmes for young children
 
 <table>
 	<tbody><tr>
