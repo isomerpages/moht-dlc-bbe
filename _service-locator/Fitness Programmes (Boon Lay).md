@@ -12,7 +12,7 @@ description: ""
 <br></div>&nbsp; &nbsp; &nbsp; &nbsp;
 
 <div style="padding: 20px 20px 20px 20px;" class="col">
-<a href="/for-youths/community/"><img alt="youths fitness" src="https://img.freepik.com/premium-vector/couple-sport-fitness-training_18591-17516.jpg?w=740"></a><br>
+<a href="/for-youths/community/"><img alt="youths fitness" src="https://img.freepik.com/free-vector/set-fitness-people-training_1262-19330.jpg?w=1380&amp;t=st=1691077701~exp=1691078301~hmac=19c77931d5615fbc8681c0665dc3a4f046fa40db9428bf6ad0819e264710e1ea"></a><br>
 	<span style="font-size:20px; font-weight: 700;"><b>For Youths</b></span><br>
 	</div></div>
 <div style="padding: 20px 0px 0px 0px;" class="row">
