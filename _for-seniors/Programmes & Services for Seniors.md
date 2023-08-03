@@ -19,7 +19,7 @@ description: ""
 		<td><img src="https://supportgowhere.life.gov.sg/static/Financial-5d84d4c0.svg" style="height:200px;width:300px"></td>
 	</tr>
 <tr>
-		<td><b><a href="https://www.healthhub.sg/programmes/183/parent-hub">Parent Hub (By Health Hub)</a></b><br><br></td> 
+		<td><b><a href="https://www.healthhub.sg/programmes/183/parent-hub/resources-caregivers">Parent Hub (Grandparents - Resources)</a></b><br><br></td> 
 		<td><b><a href="/findaservice/ssc/">Social Service Centres (Boon Lay)</a></b><br></td>
 		<td><b><a href="https://supportgowhere.life.gov.sg/categories/seniors"> Financial Support/Schemes</a></b><br>
 	</td></tr>
