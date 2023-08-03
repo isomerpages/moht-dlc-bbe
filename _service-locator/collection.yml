@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Service Finder.md
-      - Health & Medical.md
       - Support Schemes (Monetary Assistance).md
-      - Disability Support.md
-      - Food Support.md
-      - Housing Support.md
       - Social Service Centres.md
+      - Health & Medical.md
+      - Disability Support.md
+      - Housing Support.md
+      - Food Support.md
