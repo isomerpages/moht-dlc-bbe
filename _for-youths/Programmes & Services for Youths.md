@@ -20,7 +20,7 @@ description: ""
 	</tr>
 <tr>
 		<td><b><a href="/findaservice/ssc/">Social Service Centres (Boon Lay)</a></b><br></td>
-		<td><b><a href="/findaservice/financialsupport"> Financial Support/Schemes</a></b><br>
+		<td><b><a href="https://supportgowhere.life.gov.sg/categories/children-youth"> Financial Support/Schemes</a></b><br>
 			</td><td><b><a href="/findaservice/foodsupport/">Food Support</a></b><br><br></td> 
 	</tr>
 <tr>
