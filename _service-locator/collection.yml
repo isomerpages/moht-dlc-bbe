@@ -2,6 +2,7 @@ collections:
   service-locator:
     output: true
     order:
+      - Food Support.md
       - Service Finder.md
       - Hoarding & Decluttering.md
       - Support Schemes (Monetary Assistance).md
