@@ -33,10 +33,14 @@ Transitional Shelter (TS) provides temporary accommodation to homeless families 
 	</tr>			
 </tbody></table></p><p></p>
 
-<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> To view housing schemes &amp; other support services</div>
+<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> For help in hoarding, renovation, decluttering issues</div>
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
-		<li><a href="https://supportgowhere.life.gov.sg/categories/housing-shelter">Supportgowhere - Housing &amp; Shelter Schemes</a></li>
-		<li><a href="https://familyassist.msf.gov.sg/content/resources/family-assist-resources/housing-resources/">Housing Resources by Ministry of Social and Family Development (MSF)</a></li>
+			<li><a href="https://www.habitat.org.sg/">Habitat For Humanity Singapore</a></li>
+		<li><a href="https://supportgowhere.life.gov.sg/categories/housing-shelter">Helping Joy - Seeking Help</a></li>
 	</ul>
+	<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> To view housing schemes &amp; other support services</div>
+		<ul>
+		<li><a href="https://supportgowhere.life.gov.sg/categories/housing-shelter">Supportgowhere - Housing &amp; Shelter Schemes</a></li>
+		<li><a href="https://familyassist.msf.gov.sg/content/resources/family-assist-resources/housing-resources/">Housing Resources by Ministry of Social and Family Development (MSF)</a></li></ul>
 </div>
