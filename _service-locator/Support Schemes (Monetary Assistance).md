@@ -3,7 +3,7 @@ title: Support Schemes (Monetary Assistance)
 permalink: /service-locator/supportschemes/
 description: ""
 ---
-<img src="https://supportgowhere.life.gov.sg/static/Support-5f313b89.svg" style="height:200px;width:700px">
+<img src="https://supportgowhere.life.gov.sg/static/Support-5f313b89.svg" style="height:200px;width:900px">
 <p>
 
 <table>
