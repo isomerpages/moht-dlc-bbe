@@ -6,10 +6,8 @@ links:
     collection: service-locator
   - title: Learning Hub
     collection: learning-hub
-  - title: Programmes
-    collection: programmes
-  - title: Chat with DLC bot
-    url: /supportchat
+  - title: Group Chat
+    url: /groupchat/
   - title: Service Locator
     collection: service-locator
   - title: For Children
