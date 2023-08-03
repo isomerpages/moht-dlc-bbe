@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Service Finder.md
-      - Financial Support (Schemes).md
       - Social Service Centres (Boon Lay).md
+      - Financial Support (Schemes).md
       - Health & Medical.md
       - Disability Support.md
       - Housing Support.md
