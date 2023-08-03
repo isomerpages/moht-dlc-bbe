@@ -2,7 +2,7 @@ collections:
   service-locator:
     output: true
     order:
-      - Service Finder.md
+      - Find A Service.md
       - Social Service Centres (Boon Lay).md
       - Financial Support (Schemes).md
       - Community Programmes (Boon Lay).md
