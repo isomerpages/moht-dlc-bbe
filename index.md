@@ -12,15 +12,18 @@ sections:
         neighbourhood for Boon Lay residents
       background: /images/19439xeey.jpg
       key_highlights:
-        - title: Find a Service
-          description: Within Boon Lay
-          url: /findaservice
-        - title: Training Guides
-          description: Boost your skills & knowledge
-          url: /learning-hub/caregiversupport/
-        - title: Join on Telegram
-          description: Community chatbot
-          url: /telegramchat
+        - title: For Adults
+          description: 18 - 49 Yrs Old
+          url: /for-adults
+        - title: For Seniors
+          description: ≥50 Yrs Old
+          url: /for-seniors/
+        - title: For Children
+          description: 0 - 12 Yrs Old
+          url: /for-children
+        - title: For Youths
+          description: 13 - 21 Yrs Old
+          url: /for-youths
   - infopic:
       title: Digital Local Connect
       description: A resource library for precinct leaders, volunteers, and
