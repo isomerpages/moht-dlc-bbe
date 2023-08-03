@@ -30,12 +30,12 @@ description: ""
     </td>	
     <td style="width:70%">
       			<b>	CaringSG</b>
-   <br><br>
-Book your slot on the <a href="https://www.healthhub.sg/programmes/197/healthyliving" target="_blank">Services</a>. <br>
-			<b> Date &amp; time:</b> Every Mon 8am - 9am<br>
-			<b> Address:</b> Boon Lay Zone D Residents' Network (190 Boon Lay Dr, #01-224 Boon Lay Vista, Singapore 640190)<br>
-			<b> Contact no: </b> 9070 3251 <br>
-    <br><p></p></td>
+   <p>
+			CaringSG is a caregiver-led initiative for special needs caregivers and the community. <br>
+		 <b><a href="https://caring.sg/careconnect/" target="_blank">CAREconnect:</a></b><br> We help caregivers find a support group via our CaringSG Alliance Network. We run inclusive events for personal knowledge, skills, respite, social activities and more.  <br>
+		 <b><a href="https://caring.sg/carebuddy/" target="_blank">CAREbuddy:</a></b><br> We train CAREbuddies (who are special needs caregivers themselves) to provide emotional support to fellow caregivers through individualised routine-based approach and information sharing. <br>
+		 <b><a href="https://caring.sg/carewell/" target="_blank">CAREwell:</a></b><br> Our multidisciplinary team of professional volunteers help to better coordinate health and social services to support special needs caregivers and their families.
+    <br></p><p></p></td>
   </tr>
 	
 <tr>
