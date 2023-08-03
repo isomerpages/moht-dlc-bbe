@@ -1,14 +1,8 @@
 logo: /images/dlc temp logo 1.png
 links:
-  - title: About
-    collection: about-us
   - title: Support Services
     collection: service-locator
   - title: Learning Hub
     collection: learning-hub
   - title: Group Chat
     url: /groupchat/
-  - title: Service Locator
-    collection: service-locator
-  - title: For Children
-    collection: for-children
