@@ -7,8 +7,7 @@ description: ""
 <p>
 	
 </p><h3> Polyclinics</h3>
-	You can <a href="https://www.nup.com.sg/Pages/Make-change-an-Appointment.aspx">make an appointment</a> on your OneNUHS app before your visit. Walk-in visitations may result in longer waiting times.
-	
+	You can <a href="https://www.nup.com.sg/Pages/Make-change-an-Appointment.aspx">make an appointment</a> on your OneNUHS app before your visit. Walk-in visitations may result in longer waiting times.<br>
 <table>
 	<tbody><tr>
 		<td><img src="https://s3.ap-southeast-1.amazonaws.com/media.mamahood.com.sg/wp-content/uploads/2021/09/09153654/jurong-polyclinic-singapore-1024x674.jpg" style="height:200px;width:300px"></td>
