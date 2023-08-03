@@ -2,10 +2,10 @@ collections:
   service-locator:
     output: true
     order:
-      - Food Support.md
       - Service Finder.md
+      - Health & Medical.md
       - Support Schemes (Monetary Assistance).md
       - Disability Support.md
-      - Health & Medical.md
+      - Food Support.md
       - Housing Support.md
       - Social Service Centres.md
