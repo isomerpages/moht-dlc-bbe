@@ -11,7 +11,7 @@ description: ""
 	</tr>
 	<tr>
 		<td><b><a href="/for-children/fitness">Fitness Programmes</a></b><br></td>
-		<td><div style="position:relative;left:34px;"><b><a href="/for-children/community">Community Programmes</a></b><br></div></td>
+		<td><b><a href="/for-children/community">Community Programmes</a></b><br></td>
 		<td><b><a href="/for-children/mentalhealth"> Mental Health (Children)</a></b><br></td></tr>
 <tr>
 		<td><img src="https://www.healthhub.sg/sites/assets/Assets/Programs/parenting_portal/images/resources-thumb-1.png" style="height:200px;width:300px"></td>
@@ -20,7 +20,7 @@ description: ""
 	</tr>
 <tr>
 		<td><b><a href="https://www.healthhub.sg/programmes/183/parent-hub">Parent Hub (By Health Hub)</a></b><br><br></td> 
-		<td><div style="position:relative;left:34px"><b><a href="/findaservice/ssc/">Social Service Centres (Boon Lay)</a></b><br></div></td>
+		<td><b><a href="/findaservice/ssc/">Social Service Centres (Boon Lay)</a></b><br></td>
 		<td><b><a href="https://supportgowhere.life.gov.sg/categories/children-youth"> Financial Support/Schemes</a></b><br>
 	</td></tr>
 <tr>
@@ -30,7 +30,7 @@ description: ""
 	</tr>
 <tr>
 		<td><b><a href="/findaservice/healthandmedical/">Health &amp; Medical</a></b><br></td>
-		<td><div style="position:relative;left:34px;"><b><a href="/findaservice/disabilitysupport/">Disability Support</a></b><br></div></td>
+		<td><b><a href="/findaservice/disabilitysupport/">Disability Support</a></b><br></td>
 		<td><b><a href="/findaservice/housingsupport/"> Housing Support</a></b><br>
 			</td></tr>
 	<tr>
