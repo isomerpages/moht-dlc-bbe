@@ -3,7 +3,7 @@ title: Support Schemes (Monetary Assistance)
 permalink: /service-locator/supportschemes/
 description: ""
 ---
-<img src="https://supportgowhere.life.gov.sg/static/Support-5f313b89.svg" style="height:200px;width:900px">
+<img src="https://supportgowhere.life.gov.sg/static/Support-5f313b89.svg" style="height:200px;width:1000px">
 <b>Visit <a href="/our-programmes/active-ageing">Supportgowhere.gov.sg</a> to check your eligibility for the support schemes &amp; services below</b>
 <p>
 
