@@ -60,7 +60,7 @@ description: ""
 	
 
 
-<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Useful Content</div>
+<div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Other resources</div>
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row">
 	<ul>
 		<li><a href="https://supportgowhere.life.gov.sg/categories/disability">Disability Support Schemes</a></li>
