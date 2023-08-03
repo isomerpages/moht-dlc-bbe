@@ -2,6 +2,7 @@ collections:
   service-locator:
     output: true
     order:
+      - Community Programmes (Boon Lay).md
       - Fitness Programmes.md
       - Service Finder.md
       - Social Service Centres (Boon Lay).md
