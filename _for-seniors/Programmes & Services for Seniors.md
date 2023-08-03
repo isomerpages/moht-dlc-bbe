@@ -21,7 +21,7 @@ description: ""
 <tr>
 		<td><b><a href="https://www.healthhub.sg/programmes/183/parent-hub">Parent Hub (By Health Hub)</a></b><br><br></td> 
 		<td><b><a href="/findaservice/ssc/">Social Service Centres (Boon Lay)</a></b><br></td>
-		<td><b><a href="/findaservice/financialsupport"> Financial Support/Schemes</a></b><br>
+		<td><b><a href="https://supportgowhere.life.gov.sg/categories/seniors"> Financial Support/Schemes</a></b><br>
 	</td></tr>
 <tr>
 		<td><img src="https://img.freepik.com/free-vector/flat-hand-drawn-patient-taking-medical-examination_52683-57829.jpg?w=996&amp;t=st=1691066904~exp=1691067504~hmac=18aa5190bf48471d779b17810c92b19f2f333107f93341a02dace8f7f6bdfe21" style="height:200px;width:300px"></td>
