@@ -22,7 +22,7 @@ sections:
           description: 0 - 12 Yrs Old
           url: /for-children
         - title: For Youths
-          description: 13 - 21 Yrs Old
+          description: 13 - 17 Yrs Old
           url: /for-youths
   - infopic:
       title: Digital Local Connect
