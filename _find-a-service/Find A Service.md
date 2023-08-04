@@ -5,15 +5,11 @@ description: ""
 ---
 <div class="row">
 	<div style="margin: 10px;" class="col"> 
-		<a href="/map/"><img alt="Digital Society" src="https://dabuttonfactory.com/button.png?t=View+Map&amp;f=Ubuntu-Bold&amp;ts=45&amp;tc=eee&amp;hp=45&amp;vp=20&amp;c=20&amp;bgt=unicolored&amp;bgc=5c6cbc"></a></div>
+		<a href="/map/"><img alt="View Map" src="https://dabuttonfactory.com/button.png?t=View+Map&amp;f=Ubuntu-Bold&amp;ts=45&amp;tc=eee&amp;hp=45&amp;vp=20&amp;c=20&amp;bgt=unicolored&amp;bgc=5c6cbc"></a></div>
 	<div style="margin: 10px;" class="col">  
-		<a href="/check-first/"><img alt="Digital Economy" src="https://dabuttonfactory.com/button.png?t=Filter+Tool&amp;f=Ubuntu-Bold&amp;ts=45&amp;tc=eee&amp;hp=45&amp;vp=20&amp;c=20&amp;bgt=unicolored&amp;bgc=5c6cbc"></a></div>
+		<a href="/check-first/"><img alt="CheckFirst" src="https://dabuttonfactory.com/button.png?t=CheckFirst&amp;f=Ubuntu-Bold&amp;ts=45&amp;tc=eee&amp;hp=45&amp;vp=20&amp;c=20&amp;bgt=unicolored&amp;bgc=5c6cbc"></a></div>
 	</div>
-
-
-<b>Enter Full Screen to search within the map</b>
-
-<iframe height="339" width="453" src="https://www.google.com/maps/d/u/1/embed?mid=1rUQJfhuhWAL8Rs7bDoON11i7eLvcPYv2&amp;ehbc=2E312F"></iframe>
+	<br>
 
 <table>
 	<tbody><tr>
