@@ -9,7 +9,6 @@ description: ""
 	<div style="margin: 10px;" class="col"> <p><b>Filter services by age group &amp; needs</b></p><p>
 		<a href="/check-first/"><img alt="CheckFirst" src="https://www.checkfirst.gov.sg/assets/checkfirst-logo.svg"></a></p></div>
 	</div>
-	<p>
 <table>
 	<tbody><tr>
 		<td><img src="https://img.freepik.com/free-vector/charity-flat-color-illustration-with-young-volunteer-characters-caring-elderly-disabled-person-vector-illustration_1284-73382.jpg?w=1380&amp;t=st=1691066694~exp=1691067294~hmac=91aecb39ef15ae8ff04e3aca58cc8b5a3140560fe1dd4fd86c70941d6dd2515d" style="height:200px;width:300px"></td>
@@ -45,4 +44,4 @@ description: ""
 			</tr>
 <tr>
 		<td><b><a href="https://www.smartnation.gov.sg/community/apps-for-you/">Useful Apps</a></b><br></td>
-</tr></tbody></table></p>
+</tr></tbody></table><p></p>
