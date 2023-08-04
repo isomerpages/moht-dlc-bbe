@@ -5,9 +5,9 @@ description: ""
 ---
 <div class="row">
 	<div style="margin: 10px;" class="col"> 
-		<a href="/about-smart-nation/digital-society"><img alt="Digital Society" src="https://dabuttonfactory.com/button.png?t=View+Map&amp;f=Open+Sans-Bold&amp;ts=35&amp;tc=eee&amp;hp=45&amp;vp=20&amp;c=20&amp;bgt=unicolored&amp;bgc=5c6cbc"></a></div>
+		<a href="/about-smart-nation/digital-society"><img alt="Digital Society" src="https://dabuttonfactory.com/button.png?t=View+Map&amp;f=Ubuntu-Bold&amp;ts=45&amp;tc=eee&amp;hp=45&amp;vp=20&amp;c=20&amp;bgt=unicolored&amp;bgc=5c6cbc"></a></div>
 	<div style="margin: 10px;" class="col">  
-		<a href="/about-smart-nation/digital-economy"><img alt="Digital Economy" src="https://dabuttonfactory.com/button.png?t=Filter+Tool&amp;f=Open+Sans-Bold&amp;ts=35&amp;tc=eee&amp;hp=45&amp;vp=20&amp;c=20&amp;bgt=unicolored&amp;bgc=5c6cbc"></a></div>
+		<a href="/about-smart-nation/digital-economy"><img alt="Digital Economy" src="https://dabuttonfactory.com/button.png?t=Filter+Tool&amp;f=Ubuntu-Bold&amp;ts=45&amp;tc=eee&amp;hp=45&amp;vp=20&amp;c=20&amp;bgt=unicolored&amp;bgc=5c6cbc"></a></div>
 	</div>
 
 
