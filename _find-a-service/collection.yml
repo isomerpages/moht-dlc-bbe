@@ -1,5 +1,5 @@
 collections:
-  service-locator:
+  find-a-service:
     output: true
     order:
       - Find A Service.md
