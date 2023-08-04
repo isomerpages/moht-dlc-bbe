@@ -4,7 +4,7 @@ permalink: /findaservice/
 description: ""
 ---
 <div class="row">
-	<div style="margin: 10px;" class="col"> <p><b>View services on map</b></p>
+	<div style="margin: 10px;" class="col"> <p><b><u>View services on map</u></b></p>
 		<a href="/map/"><img alt="View Map" src="https://dabuttonfactory.com/button.png?t=View+Map&amp;f=Ubuntu-Bold&amp;ts=45&amp;tc=fff&amp;hp=45&amp;vp=20&amp;c=20&amp;bgt=unicolored&amp;bgc=999"></a></div>
 	<div style="margin: 10px;" class="col"> <p><b>Filter services by age group &amp; needs</b></p><p>
 		<a href="/check-first/"><img alt="CheckFirst" src="https://www.checkfirst.gov.sg/assets/checkfirst-logo.svg"></a></p></div>
