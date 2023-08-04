@@ -2,9 +2,9 @@ collections:
   find-a-service:
     output: true
     order:
+      - Find A Service.md
       - View Map.md
       - CheckFirst.md
-      - Find A Service.md
       - Social Service Centres (Boon Lay).md
       - Financial Support (Schemes).md
       - Community Programmes (Boon Lay).md
