@@ -22,6 +22,6 @@ description: ""
 <br></div>&nbsp; &nbsp; &nbsp; &nbsp;
 
 <div style="padding: 20px 20px 20px 20px;" class="col">
-<a href="/for-seniors/fitness/"><img alt="seniors fitness" src="https://img.freepik.com/free-vector/active-elderly-people-concept-illustration_114360-3009.jpg?w=996&amp;t=st=1691077137~exp=1691077737~hmac=cf5063c5b2eb99da55901ab1b9930a9d4070a77f3e0e6ae13c2a4fc5f5e0954a"></a><br>
+<a href="/for-seniors/fitness/"><img alt="seniors fitness" src="https://img.freepik.com/free-vector/active-elderly-people-concept-illustration_114360-3009.jpg?w=996&amp;t=st=1691077137~exp=1691077737~hmac=cf5063c5b2eb99da55901ab1b9930a9d4070a77f3e0e6ae13c2a4fc5f5e0954a"></a><p>
 	<span style="font-size:20px; font-weight: 700;"><b>For Seniors</b></span><br>
-<br></div></div>
+<br></p></div></div>
