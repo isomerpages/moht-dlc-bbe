@@ -4,9 +4,10 @@ permalink: /groupchat/
 description: ""
 ---
 ## Join Our Support Network
+<b> <br>
 * Chat with other community partners to 
 * Share best practices with others to build knowledge bases in the community
-* Touch on our AI bot to access this library of shared resources
+* Touch on our AI bot to access this library of shared resources</b>
 
 <h4> Scan the QR below to join</h4>
 
