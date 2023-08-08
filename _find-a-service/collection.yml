@@ -2,6 +2,7 @@ collections:
   find-a-service:
     output: true
     order:
+      - Fitness/Fitness Programmes (Boon Lay).md
       - Fitness/.keep
       - Find A Service.md
       - View Map.md
