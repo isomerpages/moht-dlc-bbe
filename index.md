@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       title: Building an Integrated Community in Boon Lay
-      subtitle: A pocket guide for volunteers & providers to access resources in your
-        neighbourhood for Boon Lay residents
+      subtitle: A localized guide for volunteers & providers to access resources in
+        your neighbourhood for Boon Lay residents
       background: /images/19439xeey.jpg
       key_highlights:
         - title: For Adults
