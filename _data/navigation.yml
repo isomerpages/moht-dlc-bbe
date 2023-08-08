@@ -6,5 +6,10 @@ links:
     collection: learning-hub
   - title: Group Chat
     url: /groupchat/
-  - title: Toolbox
-    collection: about-us
+  - title: Tools
+    url: /tools
+    sublinks:
+      - title: Map
+        url: /map/
+      - title: Service Filter (CheckFirst)
+        url: /check-first/
