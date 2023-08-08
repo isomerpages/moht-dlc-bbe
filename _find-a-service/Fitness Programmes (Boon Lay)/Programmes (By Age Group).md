@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Fitness Programmes (Boon Lay)
 ---
 ### Fitness Programmes by Age Group
-<h4> <a href="/activitiesfactsheet/" target="_blank">Fitness programmes factsheet @ Boon Lay </a></h4>
+<h4> <a href="/programmes-factsheet/" target="_blank">Fitness programmes factsheet @ Boon Lay </a></h4>
 
 <div style="padding: 20px 0px 0px 0px;" class="row">
 	<div style="padding: 20px 20px 20px 20px;" class="col">
