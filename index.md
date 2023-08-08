@@ -37,6 +37,6 @@ sections:
       description: How can we build a Healthy Precinct together?
       button: Find out more
       url: https://staging.d236v8am3fkr6h.amplifyapp.com/
-      image: /images/picture13wfwf.png
+      image: /images/picture4vgerg.png
       alt: HP framework
 ---
