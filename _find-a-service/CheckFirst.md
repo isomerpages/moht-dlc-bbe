@@ -8,4 +8,4 @@ description: ""
 
 https://www.checkfirst.gov.sg/c/39d57c46-9611-43db-977e-50ec55c5aef1
 
-<a href="https://www.checkfirst.gov.sg/c/39d57c46-9611-43db-977e-50ec55c5aef1" target="_blank">Social Service Centre @ Boon Lay </a>
+<a href="https://www.checkfirst.gov.sg/c/39d57c46-9611-43db-977e-50ec55c5aef1" target="_blank">CheckFirst</a>
