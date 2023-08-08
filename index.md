@@ -28,7 +28,6 @@ sections:
       title: Digital Local Connect
       description: A resource library for precinct leaders, volunteers, and
         stakeholders, to guide residents to local services and programs.
-      button: Learn more
       alt: Hello
       image: /images/dlc square banner (about).png
       subtitle: A Healthy Precinct Initiative
