@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Fitness/.keep
-      - Fitness/Fitness Programmes (Boon Lay).md
+      - Fitness/Programmes (By Age Group).md
       - Fitness/Programmes Factsheet.md
       - Find A Service.md
       - View Map.md
