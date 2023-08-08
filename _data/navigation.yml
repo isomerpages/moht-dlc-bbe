@@ -7,7 +7,7 @@ links:
   - title: Group Chat
     url: /groupchat/
   - title: Tools
-    url: /tools
+    url: /map/
     sublinks:
       - title: Map
         url: /map/
