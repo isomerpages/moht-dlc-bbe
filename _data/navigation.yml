@@ -4,8 +4,6 @@ links:
     collection: find-a-service
   - title: Learning Resources
     collection: learning-hub
-  - title: Group Chat
-    url: /groupchat/
   - title: Tools
     url: /map/
     sublinks:
