@@ -25,6 +25,14 @@ sections:
           description: 13 - 17 Yrs Old
           url: /for-youths
   - infopic:
+      title: OneBoonLay
+      subtitle: Telegram Network
+      description: Follow, Connect, and Explore with Boon Lay's main community channel!
+      button: Click to join
+      url: https://t.me/oneboonlay
+      image: /images/oneboonlay_telegram.jpg
+      alt: OneBoonLay QR
+  - infopic:
       title: Digital Local Connect
       description: A resource library for precinct leaders, volunteers, and
         stakeholders, to guide residents to local services and programs.
@@ -39,12 +47,4 @@ sections:
       url: https://staging.d236v8am3fkr6h.amplifyapp.com/
       image: /images/picture4vgerg.png
       alt: HP framework
-  - infopic:
-      title: OneBoonLay
-      subtitle: Telegram Network
-      description: Follow, Connect, and Explore with Boon Lay's main community channel!
-      button: Click to join
-      url: https://t.me/oneboonlay
-      image: /images/oneboonlay_telegram.jpg
-      alt: OneBoonLay QR
 ---
