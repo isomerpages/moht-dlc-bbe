@@ -2,9 +2,9 @@ collections:
   find-a-service:
     output: true
     order:
-      - Fitness/.keep
-      - Fitness/Programmes (By Age Group).md
-      - Fitness/Programmes Factsheet.md
+      - Fitness Programmes (Boon Lay)/.keep
+      - Fitness Programmes (Boon Lay)/Programmes (By Age Group).md
+      - Fitness Programmes (Boon Lay)/Programmes Factsheet.md
       - Find A Service.md
       - View Map.md
       - CheckFirst.md
