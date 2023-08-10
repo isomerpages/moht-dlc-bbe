@@ -90,13 +90,12 @@ Set up by IMDA, Boon Lay Wellness Centre is manned by digital ambassadors whose 
 	<br>Closed on Sun &amp; PH<br>
 			<b> Address:</b> Blk 209 Boon Lay Pl, #01-239, Singapore 640209 <br>
 			<b> Contact no: </b> 6267 5077 <br>
-</p><p></p>
+</p>
     <br></td>
   </tr>
-    
-  </tbody></table><p></p><p></p>
-	
-	
+  </tbody></table><p></p>
+	<div style="margin: 10px;" class="col"> <p></p>
+		<a href="/programmes-factsheet/"><img alt="Click for full list of programmes" src="https://dabuttonfactory.com/button.png?t=Click+for+Full+List+of+Programmes+(Boon+Lay)&amp;f=Open+Sans-Bold&amp;ts=25&amp;tc=fff&amp;hp=45&amp;vp=20&amp;c=11&amp;bgt=unicolored&amp;bgc=674ea7"></a></div><p></p>
 
 
 <div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
