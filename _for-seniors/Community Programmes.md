@@ -5,10 +5,19 @@ description: ""
 ---
 # Activities for Seniors in Boon Lay
 
-<table style="width:100%">
+<br><p></p><table style="width:100%">
   <tbody><tr>
 		
 </tr><tr>
+		<td style="width:30%">
+      <img src="https://scontent.fsin4-1.fna.fbcdn.net/v/t39.30808-6/217673923_10159331096063560_2877714396179796440_n.jpg?stp=dst-jpg_p526x296&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=iAfPiMTBGloAX9JTXRG&amp;_nc_ht=scontent.fsin4-1.fna&amp;oh=00_AfAt30Bo7K4pqgSvqgydP4aQRwO_k14uog12sF-YvoRrEA&amp;oe=64D9E780" alt="Telegram bot">
+    </td>	
+    <td style="width:70%">
+			<h5><b><a href="https://t.me/oneboonlay" target="_blank">Join  Oneboonlay on Telegram</a></b></h5>
+   <br>
+	Follow, Connect, and Explore events in your area with Boon Lay's main community channel!<br> 
+	<a href="https://www.facebook.com/OneBoonLay/" target="_blank">Facebook</a> | 	<a href="https://www.instagram.com/oneboonlay/?hl=en" target="_blank">Instagram</a><br>🌟🏢📲<p></p>
+			</td></tr><tr>
     <td style="width:30%">
       <img src="https://assets-prod.ntuchealth.sg/nh/_1200x630_crop_center-center_82_none/Boon-Lay-SAC.jpg?mtime=1634271130" alt="blsc">
     </td>	
@@ -59,17 +68,8 @@ Set up by IMDA, Boon Lay Wellness Centre is manned by digital ambassadors whose 
 </p><p></p>
     <br></td>
   </tr>
-	<tr>
-		<td style="width:30%">
-      <img src="https://scontent-xsp1-2.xx.fbcdn.net/v/t1.6435-9/155047777_10159039075818560_1813083149321125721_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=T62IpYX-QUMAX_YFLOT&amp;_nc_ht=scontent-xsp1-2.xx&amp;oh=00_AfDl9mruhy1myzCQ1Jr1bVZR37B6N0i5qV0ZgASQmH4Bog&amp;oe=64CA0FD0" alt="Telegram bot">
-    </td>	
-    <td style="width:70%">
-      	<a href="https://t.me/oneboonlay" target="_blank">Join  Oneboonlay on Telegram</a>
-   <br>
-	Follow, Connect, and Explore events in your area with Boon Lay's main community channel!<br> 
-	<a href="https://www.facebook.com/OneBoonLay/" target="_blank">Facebook</a> | 	<a href="https://www.instagram.com/oneboonlay/?hl=en" target="_blank">Instagram</a><br>🌟🏢📲<p></p>
-    <br><p></p></td>
-  </tr></tbody></table><p></p><p></p>
+    
+  </tbody></table><p></p><p></p>
 	
 	
 
