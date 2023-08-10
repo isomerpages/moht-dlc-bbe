@@ -49,4 +49,9 @@ sections:
       url: https://staging.d236v8am3fkr6h.amplifyapp.com/
       image: /images/picture4vgerg.png
       alt: HP framework
+  - infobar:
+      title: Community Programmes in Boon Lay
+      subtitle: Happening around you
+      button: Access the full list here
+      url: /programmes-factsheet/
 ---
