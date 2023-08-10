@@ -5,9 +5,9 @@ description: ""
 ---
 # Youth Programmes in Boon Lay
 
-<br><p></p><table style="width:100%">
+<br><p></p>
+<table style="width:100%">
   <tbody><tr>
-		
 </tr><tr>
     <td style="width:30%">
       <img src="https://lakeside.org.sg/wp-content/uploads/2021/07/TGA.jpeg" alt="vhcjc">
