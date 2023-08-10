@@ -3,7 +3,7 @@ title: Community Programmes
 permalink: /for-seniors/community/
 description: ""
 ---
-# Activities for Seniors in Boon Lay
+## Activities Centres for Seniors in Boon Lay
 
 <p></p>
 
