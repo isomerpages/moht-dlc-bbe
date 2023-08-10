@@ -34,6 +34,11 @@ sections:
       url: https://t.me/oneboonlay
       image: /images/oneboonlay_telegram.jpg
       alt: OneBoonLay QR
+  - infobar:
+      title: Community Programmes in Boon Lay
+      subtitle: Happening around you
+      button: Access the full list here
+      url: /programmes-factsheet/
   - infopic:
       title: Digital Local Connect
       description: A resource library for precinct leaders, volunteers, and
@@ -49,9 +54,4 @@ sections:
       url: https://staging.d236v8am3fkr6h.amplifyapp.com/
       image: /images/picture4vgerg.png
       alt: HP framework
-  - infobar:
-      title: Community Programmes in Boon Lay
-      subtitle: Happening around you
-      button: Access the full list here
-      url: /programmes-factsheet/
 ---
