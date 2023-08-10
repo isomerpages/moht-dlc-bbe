@@ -2,14 +2,14 @@ collections:
   find-a-service:
     output: true
     order:
-      - Fitness Programmes (Boon Lay)/.keep
-      - Fitness Programmes (Boon Lay)/Programmes (By Age Group).md
-      - Fitness Programmes (Boon Lay)/Programmes Factsheet.md
       - Find A Service.md
       - View Map.md
       - CheckFirst.md
       - Social Service Centres (Boon Lay).md
       - Financial Support (Schemes).md
+      - Fitness Programmes (Boon Lay)/.keep
+      - Fitness Programmes (Boon Lay)/Programmes (By Age Group).md
+      - Fitness Programmes (Boon Lay)/Programmes Factsheet.md
       - Community Programmes (Boon Lay).md
       - Mental Health.md
       - Health & Medical.md
