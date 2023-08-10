@@ -4,8 +4,6 @@ permalink: /for-children/community/
 description: ""
 ---
 ### Events &amp; Courses for Children in Boon Lay
-<div style="margin: 10px;" class="col"> <p></p>
-		<a href="/programmes-factsheet/"><img alt="Click for full list of programmes" src="https://dabuttonfactory.com/button.png?t=Click+for+Full+List+of+Programmes+(Boon+Lay)&amp;f=Open+Sans-Bold&amp;ts=25&amp;tc=fff&amp;hp=45&amp;vp=20&amp;c=11&amp;bgt=unicolored&amp;bgc=674ea7"></a></div><p></p>
 <table>
 	<tbody><tr>
 		<td><img style="height:200px;width:300px" alt="vhcjc" src="https://img.freepik.com/free-vector/happy-children-jumping-summer-meadow_74855-5852.jpg?w=2000"></td>
