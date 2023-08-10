@@ -5,7 +5,7 @@ description: ""
 ---
 # Activities for Seniors in Boon Lay
 
-<br><p></p>
+<p></p>
 
  <div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Keep Up to Date</div>
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row"><table style="width:100%">
