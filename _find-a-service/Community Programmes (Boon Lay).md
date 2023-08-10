@@ -27,7 +27,7 @@ description: ""
       	<a href="https://www.onepa.gov.sg/cc/boon-lay-cc" target="_blank">Boon Lay CC</a>
    <br>
 	Sign up for Yoga classes or join a karaoke interest group! Explore events, courses, and interest groups at Boon Lay CC now! <br>
-	<br></td>
+	</td>
 </tr>
 		
 </tbody></table>    
