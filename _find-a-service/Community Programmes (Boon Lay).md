@@ -4,7 +4,8 @@ permalink: /findaservice/community/
 description: ""
 ---
 ### Community Programmes by Age Group
- <table style="width:100%">
+ <div style="font-size:24px; font-weight: 700; color: #063970; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>
+<div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row"><table style="width:100%">
   <tbody><tr>
     <td style="width:30%">
       <img src="https://scontent.fsin4-1.fna.fbcdn.net/v/t39.30808-6/217673923_10159331096063560_2877714396179796440_n.jpg?stp=dst-jpg_p526x296&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=iAfPiMTBGloAX9JTXRG&amp;_nc_ht=scontent.fsin4-1.fna&amp;oh=00_AfAt30Bo7K4pqgSvqgydP4aQRwO_k14uog12sF-YvoRrEA&amp;oe=64D9E780" alt="Telegram bot">
@@ -29,7 +30,10 @@ description: ""
 	<br></td>
 </tr>
 		
-</tbody></table>
+</tbody></table>    
+	<br>
+  
+</div>
 <p>
 
 </p><div style="padding: 20px 0px 0px 0px;" class="row">
