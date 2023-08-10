@@ -42,7 +42,6 @@ Have some free time? Volunteer for your local community! <br> Keep up to date wi
       </div>  
     <br></td>
   </tr>
-    
   </tbody></table><p></p><p></p>
 	<p></p>
 
