@@ -35,7 +35,7 @@ description: ""
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row"><table style="width:100%">
   <tbody><tr>
     <td style="width:30%">
-      <img src="https://scontent.fsin4-1.fna.fbcdn.net/v/t39.30808-6/217673923_10159331096063560_2877714396179796440_n.jpg?stp=dst-jpg_p526x296&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=iAfPiMTBGloAX9JTXRG&amp;_nc_ht=scontent.fsin4-1.fna&amp;oh=00_AfAt30Bo7K4pqgSvqgydP4aQRwO_k14uog12sF-YvoRrEA&amp;oe=64D9E780" alt="Telegram bot">
+      <a href="https://ibb.co/nQCP0NF"><img border="0" alt="oneboonlay-telegram" src="https://i.ibb.co/frvDSzs/oneboonlay-telegram.jpg"></a>
     </td>	
     <td style="width:70%">
       	<a href="https://t.me/oneboonlay" target="_blank">Join  Oneboonlay on Telegram</a>
