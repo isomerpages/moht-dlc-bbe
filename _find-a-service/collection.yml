@@ -2,9 +2,6 @@ collections:
   find-a-service:
     output: true
     order:
-      - Community Programmes/.keep
-      - Community Programmes/Community Programmes (By Age Group).md
-      - Community Programmes/Programmes Factsheet.md
       - Find A Service.md
       - View Map.md
       - CheckFirst.md
@@ -12,6 +9,9 @@ collections:
       - Financial Support (Schemes).md
       - Fitness Programmes (Boon Lay)/.keep
       - Fitness Programmes (Boon Lay)/Fitness Programmes (By Age Group).md
+      - Community Programmes/.keep
+      - Community Programmes/Community Programmes (By Age Group).md
+      - Community Programmes/Programmes Factsheet.md
       - Mental Health.md
       - Health & Medical.md
       - Disability Support.md
