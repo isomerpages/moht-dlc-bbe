@@ -11,7 +11,7 @@ description: ""
 <div style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;" class="row"><table style="width:100%">
   <tbody><tr>
     <td style="width:30%">
-      <img src="https://i.ibb.co/frvDSzs/oneboonlay-telegram.jpg" alt="Telegram bot">
+      <a href="https://ibb.co/nQCP0NF"><img border="0" alt="oneboonlay-telegram" src="https://i.ibb.co/frvDSzs/oneboonlay-telegram.jpg"></a>
     </td>	
     <td style="width:70%">
       	<a href="https://t.me/oneboonlay" target="_blank">Join  Oneboonlay on Telegram</a>
