@@ -23,7 +23,9 @@ Dementia Care
     
 *   [End of Life Dementia Care-Giving (3-hour) - Montessori For Dementia Care](https://www.aic.sg/caregiving/caregiver-training-course/Documents/MO_End%20of%20Life%20Dementia%20Care-Giving%E2%80%93Classroom-based.pdf)
     
+Agency for Integrated Care:
 
+*   [Dementia Awareness: Foundation Level](https://ccmhdcomms.github.io/dementiaawareness20/)
   
 
 Others
