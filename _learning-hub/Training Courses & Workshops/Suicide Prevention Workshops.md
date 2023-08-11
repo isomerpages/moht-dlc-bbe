@@ -4,9 +4,7 @@ permalink: /learning-hub/permalink/
 description: ""
 third_nav_title: Training Courses & Workshops
 ---
-Suicide 
-
-1) Samaritans of Singapore 
+Samaritans of Singapore 
 
 *   [Things You Need to Know About Suicide](https://www.sos.org.sg/training/suicide-awareness-talk-10-things-you-need-to-know-about-suicide)
     
