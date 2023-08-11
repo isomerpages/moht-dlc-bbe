@@ -84,7 +84,7 @@ THK Active Ageing Centres (AACs) extend support to seniors living nearby in the 
       			<h5><b>	<a href="https://www.thkmc.org.sg/services_detail/thk-aac/" target="_blank">Boon Lay Wellness Centre</a></b></h5>
    <p>
 Set up by IMDA, Boon Lay Wellness Centre is manned by digital ambassadors whose main aim is to assist our residents in understanding more about digital tech. This includes helping them to be more comfortable with Whatsapp, Zoom, Email, Wireless@SG and to utilise e-payments!
-			</p><h5>Activities @ BLWC</h5><img src="https://scontent.fsin4-1.fna.fbcdn.net/v/t39.30808-6/356210954_646666190827852_2487257663277420739_n.jpg?stp=cp6_dst-jpg&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=8bfeb9&amp;_nc_ohc=U-GPVexWbekAX8i8U4L&amp;_nc_ht=scontent.fsin4-1.fna&amp;oh=00_AfBHCwiEbGu8qchv5AhDfcMyJBPKUXFW2MODhxYCAx36gA&amp;oe=64DA5F39" alt="blwc">
+			</p><h5>Activities @ BLWC</h5><a href="https://ibb.co/pQ0jkpd"><img border="0" alt="seniors-esports-boon-lay" src="https://i.ibb.co/BGz2YRB/seniors-esports-boon-lay.jpg"></a>
 			<p><a href="https://ibb.co/kqpnYJR"><img border="0" alt="msg-1186409560-1327" src="https://i.ibb.co/F89vGXS/msg-1186409560-1327.jpg"></a><br>
 			<b> Opening hours:</b> Depending on availability of events (Refer to <a href="https://t.me/oneboonlay" target="_blank">Oneboonlay</a> channel on Telegram for event updates)
 	<br>Closed on Sun &amp; PH<br>
