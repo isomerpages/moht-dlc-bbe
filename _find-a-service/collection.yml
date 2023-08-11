@@ -2,6 +2,7 @@ collections:
   find-a-service:
     output: true
     order:
+      - Community Programmes/.keep
       - Find A Service.md
       - View Map.md
       - CheckFirst.md
