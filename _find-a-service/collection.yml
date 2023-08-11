@@ -2,6 +2,7 @@ collections:
   find-a-service:
     output: true
     order:
+      - Community Programmes/Programmes Factsheet.md
       - Community Programmes/Community Programmes Factsheet.md
       - Community Programmes/Community Programmes (By Age Group).md
       - Community Programmes/.keep
