@@ -2,9 +2,9 @@ collections:
   find-a-service:
     output: true
     order:
-      - Community Programmes/Programmes Factsheet.md
-      - Community Programmes/Community Programmes (By Age Group).md
       - Community Programmes/.keep
+      - Community Programmes/Community Programmes (By Age Group).md
+      - Community Programmes/Programmes Factsheet.md
       - Find A Service.md
       - View Map.md
       - CheckFirst.md
