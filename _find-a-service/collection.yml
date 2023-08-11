@@ -2,6 +2,7 @@ collections:
   find-a-service:
     output: true
     order:
+      - Fitness Programmes (By Age Group).md
       - Find A Service.md
       - View Map.md
       - CheckFirst.md
