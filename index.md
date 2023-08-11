@@ -26,6 +26,11 @@ sections:
           url: /for-youths
       button: See All Services
       url: /findaservice/
+  - infobar:
+      title: Community Programmes in Boon Lay
+      subtitle: Happening around you
+      button: Access the full list here
+      url: /programmes-factsheet/
   - infopic:
       title: OneBoonLay
       subtitle: Telegram Network
@@ -34,11 +39,6 @@ sections:
       url: https://t.me/oneboonlay
       image: /images/oneboonlay_telegram.jpg
       alt: OneBoonLay QR
-  - infobar:
-      title: Community Programmes in Boon Lay
-      subtitle: Happening around you
-      button: Access the full list here
-      url: /programmes-factsheet/
   - infopic:
       title: Digital Local Connect
       description: A resource library for precinct leaders, volunteers, and
