@@ -1,0 +1,18 @@
+collections:
+  learning-hub:
+    output: true
+    order:
+      - Online Support & Articles/.keep
+      - Online Support & Articles/Information for Caregivers.md
+      - Online Support & Articles/Starting & Raising A Family.md
+      - Online Support & Articles/Mental Wellness Guides.md
+      - Online Support & Articles/Supporting Volunteers.md
+      - Training Courses & Workshops/.keep
+      - Training Courses & Workshops/Caregiving & Caregiver Support.md
+      - Training Courses & Workshops/Dementia Support.md
+      - Training Courses & Workshops/Mental Health Awareness (Online).md
+      - Training Courses & Workshops/Psychological First Aid.md
+      - Training Courses & Workshops/Positive Parenting Programme.md
+      - Training Courses & Workshops/Peer to Peer Mental Well Being Support with
+        WSQ Certification.md
+      - Training Courses & Workshops/Suicide Prevention Workshops.md

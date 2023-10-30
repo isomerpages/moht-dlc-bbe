@@ -1,0 +1,8 @@
+collections:
+  for-children:
+    output: true
+    order:
+      - Programmes & Services for Children.md
+      - Fitness Programmes.md
+      - Community Programmes.md
+      - Mental Health For Children.md

@@ -1,0 +1,6 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Digital Local Connect @ Boon Lay.md
+      - How to use.md

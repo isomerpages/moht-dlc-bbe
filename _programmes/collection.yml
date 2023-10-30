@@ -1,0 +1,8 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Meet The People Sessions.md
+      - Community Programmes.md
+      - Fitness Programmes.md
+      - Volunteering Events.md

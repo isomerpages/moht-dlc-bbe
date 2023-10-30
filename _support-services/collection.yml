@@ -1,0 +1,19 @@
+collections:
+  support-services:
+    output: true
+    order:
+      - Locate A Service.md
+      - Social Services/.keep
+      - Social Services/Social Service Office @ Boon Lay.md
+      - Social Services/Family Service Centre @ Jurong.md
+      - Social Services/Disability Support Services.md
+      - Social Services/Decluttering & Hoarding.md
+      - Senior Services/.keep
+      - Senior Services/Senior Centers.md
+      - Senior Services/Nursing Homes.md
+      - Senior Services/Dementia Support Services.md
+      - Children & Youth Services/.keep
+      - Children & Youth Services/Youth Programmes.md
+      - Children & Youth Services/After School Care.md
+      - Children & Youth Services/Tak Takut Kids Club.md
+      - Support Schemes Available.md

@@ -1,0 +1,8 @@
+collections:
+  for-adults:
+    output: true
+    order:
+      - Programmes & Services for Adults.md
+      - Fitness Programmes.md
+      - Community Programmes.md
+      - Mental Health Services.md
