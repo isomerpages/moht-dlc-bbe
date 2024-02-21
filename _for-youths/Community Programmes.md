@@ -35,9 +35,9 @@ Have some free time? Volunteer for your local community! <br> Keep up to date wi
 			Caring starts with you, and me. Be part of the SG Cares Movement and join Singapore’s biggest giving tribe and make a difference one act of care at a time. <br><b> Download the SG Cares App now</b>
     <br>
 </p><div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/sg-cares/id1315897116" target="_blanket"><img alt="Apple App Store Link" src="https://d33wubrfki0l68.cloudfront.net/769d2c164a70c4400654f300f4f36f94ce152f0c/c170e/images/community/appstoreicon/apple-store.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/sg-cares/id1315897116" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/apple-store.png"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=org.nvpc.sgcares&amp;hl=en_SG&amp;gl=US" target="_blanket"><img alt="Google Play Store Link" src="https://d33wubrfki0l68.cloudfront.net/d4fb6ada6a348985c0e527742be609958e91db35/f4002/images/community/appstoreicon/google-play.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=org.nvpc.sgcares&amp;hl=en_SG&amp;gl=US" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/google-play.png"></a>
           </div>
       </div>  
     <br></td>
