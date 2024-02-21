@@ -17,9 +17,9 @@ description: ""
 	Download the ActiveSG app to find fitness classes and sports facilities near you. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/activesg/id827595244" target="_blanket"><img alt="Apple App Store Link" src="https://d33wubrfki0l68.cloudfront.net/769d2c164a70c4400654f300f4f36f94ce152f0c/c170e/images/community/appstoreicon/apple-store.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/activesg/id827595244" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/apple-store.png"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.iapps.ssc" target="_blanket"><img alt="Google Play Store Link" src="https://d33wubrfki0l68.cloudfront.net/d4fb6ada6a348985c0e527742be609958e91db35/f4002/images/community/appstoreicon/google-play.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.iapps.ssc" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/google-play.png"></a>
           </div>
       </div>  
     <br></td>
@@ -35,9 +35,9 @@ description: ""
 	Download the app to join free fitness classes in your area and take part in the National Steps Challenge, as well as monitor your sleep and food intake.<br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blanket"><img alt="Apple App Store Link" src="https://d33wubrfki0l68.cloudfront.net/769d2c164a70c4400654f300f4f36f94ce152f0c/c170e/images/community/appstoreicon/apple-store.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/apple-store.png"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365" target="_blanket"><img alt="Google Play Store Link" src="https://d33wubrfki0l68.cloudfront.net/d4fb6ada6a348985c0e527742be609958e91db35/f4002/images/community/appstoreicon/google-play.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/google-play.png"></a>
           </div>
       </div>  
     <br></td>
