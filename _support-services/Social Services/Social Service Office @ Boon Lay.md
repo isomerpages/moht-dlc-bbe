@@ -4,7 +4,7 @@ permalink: /support-services/ssobl/
 description: ""
 third_nav_title: Social Services
 ---
-<p><img alt="Elderly Monitoring System" src="https://d33wubrfki0l68.cloudfront.net/996374bab31556cca47941fc3a84a16be3488f21/e34ba/images/initiatives/hdbsmartimage.jpeg">
+<p><img alt="Elderly Monitoring System" src="/images/initiatives/hdbsmartimage.jpeg">
 (Image credit: <a href="https://www.hdb.gov.sg/">Housing &amp; Development Board (HDB)</a></p>
 <br>
 <div style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;" class="row"> Related Content</div>

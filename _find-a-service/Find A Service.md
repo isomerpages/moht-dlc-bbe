@@ -40,7 +40,7 @@ description: ""
 			</td><td><b><a href="/findaservice/foodsupport/">Food Support</a></b><br>
 			</td></tr>
 		<tr>
-	<td><img src="https://d33wubrfki0l68.cloudfront.net/301f1bd08de1829e615ad2b2a4aed5228d50fc40/d9db8/images/community/headerimages/apps-for-you.png" style="height:200px;width:300px"></td>
+	<td><img src="/images/community/headerimages/apps-for-you.png" style="height:200px;width:300px"></td>
 			</tr>
 <tr>
 		<td><b><a href="https://www.smartnation.gov.sg/community/apps-for-you/">Useful Apps</a></b><br></td>
